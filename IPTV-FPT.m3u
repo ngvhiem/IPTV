@@ -370,19 +370,6 @@ http://nghenhin.ddns.net:8889/udp/225.1.1.2:30120
 http://nghenhin.ddns.net:8889/udp/225.1.1.26:30120
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_pladio_163947930147.png",Pladio 
 http://nghenhin.ddns.net:8889/udp/225.1.2.244:30120
-#-------------------Mua sắm-------------------#
-#EXTINF:-1 tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_vgsshop.png" group-title="Mua Sắm",VTVCab11 GS SHOP
-http://nghenhin.ddns.net:8889/udp/225.1.2.167:30120
-#EXTINF:-1 tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_vgsshop.png" group-title="Mua Sắm",HTVC VGS SHOP
-http://nghenhin.ddns.net:8889/udp/225.1.1.172:30120
-#EXTINF:-1 tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_vgsshop.png" group-title="Mua Sắm",HTVC VGS SHOP
-http://nghenhin.ddns.net:8889/udp/225.1.4.89:30120
-#EXTINF:-1 tvg-logo="https://quehuongshop.vn/assets/images/logo/qh_logo_color.png" group-title="Mua Sắm",BTV6 Quê Hương Homeshopping
-http://nghenhin.ddns.net:8889/udp/225.1.1.90:30120
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/7/71/Top_Shopping.png/revision/latest/scale-to-width-down/200?cb=20210104104844&path-prefix=vi" group-title="Mua Sắm",BTV11 TOP Home Shopping
-http://nghenhin.ddns.net:8889/udp/225.1.1.224:30120
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/7/71/Top_Shopping.png/revision/latest/scale-to-width-down/200?cb=20210104104844&path-prefix=vi" group-title="Mua Sắm",BTV11 TOP Home Shopping
-http://nghenhin.ddns.net:8889/udp/225.1.4.84:30120
 
 #EXTINF:0 group-title="📹 Film" tvg-logo="",🇻🇳| 
 #EXTINF:0 group-title="📹 Film" tvg-logo="",🇰🇷| 
