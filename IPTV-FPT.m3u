@@ -1,25 +1,25 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 #-------------------VTV-------------------#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1 HD (HD 8Mbps)
-http://nghenhin.ddns.net:8889/udp/225.1.1.249:30120
+http://nghenhin.ddns.net:8889/udp/225.1.2.249:30120
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/pqPWPzf.jpg",VTV2 HD (HD 8Mbps)
-http://nghenhin.ddns.net:8889/udp/225.1.1.13:30120
+http://nghenhin.ddns.net:8889/udp/225.1.2.13:30120
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/Bsaeckx.jpg",VTV3 HD (HD 8Mbps)
-http://nghenhin.ddns.net:8889/udp/225.1.1.247:30120
+http://nghenhin.ddns.net:8889/udp/225.1.2.247:30120
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/jWfsKve.png",VTV4 HD (HD 8Mbps)
-http://nghenhin.ddns.net:8889/udp/225.1.1.20:30120
+http://nghenhin.ddns.net:8889/udp/225.1.2.20:30120
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/d3dvKNa.jpg",VTV5 HD (HD 8Mbps)
 http://nghenhin.ddns.net:8889/udp/225.1.1.131:30120
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/fCpZa6a.png",VTV5 Tây Nam Bộ (HD 8Mbps)
-http://nghenhin.ddns.net:8889/udp/225.1.1.236:30120
+http://nghenhin.ddns.net:8889/udp/225.1.2.236:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vtv5tnb_logo.svg/1200px-Vtv5tnb_logo.svg.png",VTV5 Tây Nguyên (HD 8Mbps)
-http://nghenhin.ddns.net:8889/udp/225.1.1.108:30120
+http://nghenhin.ddns.net:8889/udp/225.1.2.108:30120
 #EXTINF:-1 tvg-id="vtvcanthohd" group-title="VTV" tvg-logo="https://vtv1.mediacdn.vn/thumb_w/640/2022/10/6/vtv-can-tho-16650500344341813094040.png",VTV Cần Thơ HD (HD 8Mbps)
-http://nghenhin.ddns.net:8889/udp/225.1.1.245:30120
+http://nghenhin.ddns.net:8889/udp/225.1.2.245:30120
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/qW0MBMH.jpg",VTV7 HD (HD 8Mbps)
-http://nghenhin.ddns.net:8889/udp/225.1.1.96:30120
+http://nghenhin.ddns.net:8889/udp/225.1.2.96:30120
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/7pgnEzG.jpg",VTV8 HD (HD 8Mbps)
-http://nghenhin.ddns.net:8889/udp/225.1.1.166:30120
+http://nghenhin.ddns.net:8889/udp/225.1..166:30120
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/9mL8Ve0.jpg",VTV9 HD (HD 8Mbps)
 http://nghenhin.ddns.net:8889/udp/225.1.1.128:30120
 #-------------------VTC/VOV-------------------#
