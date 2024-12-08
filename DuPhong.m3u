@@ -75,34 +75,36 @@ http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.193/test/123/playlist.mp
 #EXTINF:0 tvg-id="vovtvhd" group-title="VTC" tvg-logo="https://i.imgur.com/lARtNRO.png",VOV TV
 http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.171/test/123/playlist.mpegts
 #-------------------HTV/HTVC-------------------#
-#EXTINF:0 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.193/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 HD
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.192/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 HD
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.190/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.165/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="htvccanhachd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.185/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.166/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC Gia Đình
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.170/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/W16kIQP.png",HTVC Phim
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.184/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="htvcphunuhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/MyyovVe.png",HTVC Phụ Nữ
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.171/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.186/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.181/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.180/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.178/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV Keys
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.177/test/123/playlist.mpegts
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/wrH7U0X.png" tvg-id="6dcfc8a79c8341d5a4c5bf672928fba4",HTV Keys (HD 6Mbps)
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/667471725?profile=pass
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/z7NOxJ3.png" tvg-id="cecd99d151bcb92a3866024f08c07b9f",HTV Thể Thao (HD 7.5Mbps)
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1369034190?profile=pass
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/oLm4dbV.png" tvg-id="22b8cd8d92ab071051b41b2c09a65736",HTV1 (HD 6Mbps)
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/231585826?profile=pass
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/f3KlwDX.png" tvg-id="569cc29df22dd2e860064283a94982f6",HTV2 Vie Channel (HD 6Mbps)
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/499293270?profile=pass
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/2iE01Ca.png" tvg-id="f73a137acaaf6d8b228e644912b812bb",HTV3 (HD 8Mbps)
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/2048080631?profile=pass
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/RSlvzAs.png" tvg-id="1b155d629006898bfada5abdad9adb45",HTV7 HD (HD 8Mbps)
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1650267419?profile=pass
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/wdS7Cr9.png" tvg-id="a5912ec47c1aef3975515bede476bbcf",HTV9 HD (HD 8Mbps)
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1143902629?profile=pass
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/ZHVkEIC.png" tvg-id="4009e0a06b8eba5abf6be992510a7eac",HTVC Ca Nhạc (HD 6Mbps)
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/551553344?profile=pass
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/XxIO0E0.png" tvg-id="ef5e2ae9aacf989d46128376630a73d0",HTVC Du Lịch và Cuộc Sống (HD 6Mbps)
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1764384495?profile=pass
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/KxWRNH6.png" tvg-id="aef2a410c83827f38f23b43163e41c0d",HTVC Gia Đình (HD 6Mbps)
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/279245486?profile=pass
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/SXV3ya9.png" tvg-id="61894f47d320186ea79a37150dcf370d",HTVC Phim (HD 4.5Mbps)
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1196394849?profile=pass
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/SXV3ya9.png" tvg-id="f029c9e76e2c5b087be7491f0cb8610e",HTVC Phim (HD 4.5Mbps)
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1741236720?profile=pass
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/PLliKL6.png" tvg-id="bfba9bb09043b9a567c4f8ef59bca7dc",HTVC Phụ Nữ (HD 6Mbps)
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/815512255?profile=pass
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/xmISDWo.png" tvg-id="58b9fe39a6a2666a07b921bdd83a2ba4",HTVC Thuần Việt (HD 4Mbps)
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/972994904?profile=pass
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/SQ9cLJj.png" tvg-id="fd51b6c6836ec943e7ad21f0036f879e",HTVC+ (HD 4.5Mbps)
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1186353661?profile=pass
 #-------------------Thiết yếu-------------------#
 #EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD
 http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.169/test/123/playlist.mpegts
