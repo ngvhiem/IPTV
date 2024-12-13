@@ -3,7 +3,7 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 #-----------------------vtv-------------------------------#
 #EXTINF:1 tvg-id="vtv1hd" tvg-name="VTV1 HD" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 HD
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1832182777?profile=pass
+http://116.109.64.44:80/play/X9jkalnYNNDRuC5GYPrs1MW0n5Kc-wQ0lrzwVJg_P0M/m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png" tvg-id="vtv2hd-EPG" tvg-name="vtv2hd-id",VTV2 (HD 8.5Mbps)
 http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/155786089?profile=pass
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png" tvg-id="ca0b8fe314bfa3c1e8f7bce244d2af34",VTV3 (HD 8.5Mbps)
