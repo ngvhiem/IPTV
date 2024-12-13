@@ -105,7 +105,7 @@ http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.178/test/123/playlist.mp
 http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.177/test/123/playlist.mpegts
 #-------------------SCTV-------------------#
 #EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV-61.jpg" group-title="SCTV",SCTV6 
-http://8b0009790f95.sn.mynetname.net:4022/udp/225.1.1.188:30120
+http://116.109.64.44:80/play/X9jkalnYNNDRuC5GYPrs1AxhaiHPqoMYZ2fwuw1H8V0/m3u8
 #-------------------Thiết yếu-------------------#
 #EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD
 http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.169/test/123/playlist.mpegts
