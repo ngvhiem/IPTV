@@ -92,46 +92,6 @@ http://tdgtech.net:3022/udp/225.1.1.171:30120
 http://tdgtech.net:3022/udp/225.1.1.174:30120
 #EXTINF:-1 tvg-id="htvcplushd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-plus_159175078181.png" group-title="HTV/HTVC",HTVC+
 http://tdgtech.net:3022/udp/225.1.1.181:30120
-#-------------------Thể Thao -------------------#
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
-#EXTINF:-1, On Sports 1080p 50fps
-https://s7770.cdn.mytvnet.vn/pkg20/__cl/vstv264/sc-gaFEAA/m00123_index.m3u8
-#EXTINF:-1, On Sports+ 1080p 50fps
-https://s7770.cdn.mytvnet.vn/pkg20/__cl/vstv311/sc-gaFEAA/m00123_index.m3u8
-#EXTINF:-1, On Football 1080p 50fps
-https://s7770.cdn.mytvnet.vn/pkg20/__cl/vstv265/sc-gaFEAA/m00123_index.m3u8
-#EXTINF:-1, On Sports News 1080p 50fps
-https://s7770.cdn.mytvnet.vn/pkg20/__cl/vstv496/sc-gaFEAA/m00123_index.m3u8
-#EXTINF:-1, On Golf 1080p 50fps
-https://s7770.cdn.mytvnet.vn/pkg20/__cl/vstv485/sc-gaFEAA/m00123_index.m3u8
-#EXTINF:-1, K+ Cine 1080p 50fps
-https://s7770.cdn.mytvnet.vn/pkg20/__cl/vstv339/sc-gaFEAA/m00123_index.m3u8
-#EXTINF:-1, K+ Action 1080p 50fps
-https://s7770.cdn.mytvnet.vn/pkg20/__cl/vstv340/sc-gaFEAA/m00123_index.m3u8
-#EXTINF:-1, K+ Sport1 1080p 50fps
-https://s7770.cdn.mytvnet.vn/pkg20/__cl/vstv341/sc-gaFEAA/m00123_index.m3u8
-#EXTINF:-1, K+ Sport2 1080p 50fps
-https://s7770.cdn.mytvnet.vn/pkg20/__cl/vstv373/sc-gaFEAA/m00123_index.m3u8
-#EXTINF:-1, K+ Kids 1080p
-https://s7770.cdn.mytvnet.vn/pkg20/__cl/vstv599/sc-gaFEAA/m02123_index.m3u8
-#EXTINF:-1, SpoTV 1 1080p 50fps
-https://s7770.cdn.mytvnet.vn/pkg20/__cl/vstv587/sc-gaFEAA/m00123_index.m3u8
-#EXTINF:-1, SpoTV2 1080p 50fps
-https://s7770.cdn.mytvnet.vn/pkg20/__cl/vstv588/sc-gaFEAA/m00123_index.m3u8
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad_640_360.png", K+CINE SCTV
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/KPlusCine/index.m3u8
-#EXTINF:-1 tvg-id="kactionhd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/16/1704275031605/a72d5eab8255_640_360.png", K+ACTION SCTV
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/KPlusAction/index.m3u8
-#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png" tvg-id="d4d5a5b6d3a89cd2d3f6445830e40aa4",K+ Action
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/916837844?profile=pass
-#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png" tvg-id="04fd02f439b469dd11f1b744883e6b48",K+ Cine
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1946352900?profile=pass
-#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png" tvg-id="f5d731a1f5db0600260aa6fb06858d73",K+ Sport 1
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/556914677?profile=pass
-#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png" tvg-id="d128442039a8b881a5daa31e43a12181",K+ Sport 2
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/541337809?profile=pass
 #-------------------SCTV-------------------#
 #EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV-61.jpg" group-title="SCTV",SCTV6 
 http://tdgtech.net:3022/udp/225.1.1.188:30120
@@ -898,7 +858,6 @@ http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.196/test/123/playlist.mp
 http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.193/test/123/playlist.mpegts
 #EXTINF:0 tvg-id="vovtvhd" group-title="VTC" tvg-logo="https://i.imgur.com/lARtNRO.png",VOV TV
 http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.171/test/123/playlist.mpegts
-
 #EXTINF:0 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel
 http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.193/test/123/playlist.mpegts
 #EXTINF:0 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 HD
@@ -927,10 +886,8 @@ http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.180/test/123/playlist.mp
 http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.178/test/123/playlist.mpegts
 #EXTINF:0 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV Keys
 http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.177/test/123/playlist.mpegts
-
 #EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV-61.jpg" group-title="SCTV",SCTV6 
 http://116.109.64.44:80/play/X9jkalnYNNDRuC5GYPrs1BnbmJedZvJUxpxVI6CjiQQ/m3u8
-
 #EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD
 http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.169/test/123/playlist.mpegts
 #EXTINF:0 tvg-id="nhandan" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/Ud78FHF.png",Nhân Dân TV
@@ -941,13 +898,10 @@ http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.148/test/123/playlist.mp
 http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.217/test/123/playlist.mpegts
 #EXTINF:0 tvg-id="ttxvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/GmefCpv.png",VNEWS
 http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.167/test/123/playlist.mpegts
-
-
 #EXTINF:-1 tvg-id="youtv" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600823396313/7b474bf7bbce_640_360.png" group-title="Other",HanoiCab2 YouTV
 http://8b0009790f95.sn.mynetname.net:4022/udp/225.1.1.207:30120
 #EXTINF:-1 tvg-id="mtvhd" group-title="Other" tvg-logo="https://banner2.cleanpng.com/20180531/bap/kisspng-television-mtv-production-companies-video-mtv-logo-5b10506a0313d1.0032348315277958180126.jpg",MTV
 http://8b0009790f95.sn.mynetname.net:4022/udp/225.1.1.245:30120
-
 #EXTINF:0 tvg-id="laocai" group-title="Địa phương " tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH Lào Cai
 http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.119/test/123/playlist.mpegts
 #EXTINF:0 tvg-id="yenbai" group-title="Địa phương " tvg-logo="https://i.imgur.com/AELRXuX.png",YTV HD _ TH Yên Bái
@@ -1076,7 +1030,6 @@ http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.61/test/123/playlist.mpe
 http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.104/test/123/playlist.mpegts
 #EXTINF:0 tvg-id="cantho" group-title="Địa phương " tvg-logo="https://i.imgur.com/NyrxzES.png",THTPCT HD _ TH TP. Cần Thơ
 http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.132/test/123/playlist.mpegts
-
 #EXTINF:0 tvg-id="sonla" group-title="Địa phương " tvg-logo="https://i.imgur.com/QZT6GIh.png",STV _ TH Sơn La
 http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.98/test/123/playlist.mpegts
 #EXTINF:0 tvg-id="hanam" group-title="Địa phương " tvg-logo="https://i.imgur.com/DCSPntI.png",THHN _ TH Hà Nam
