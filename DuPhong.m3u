@@ -1,339 +1,247 @@
-+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
-#-------------------VTV-------------------#
-#EXTINF:0 tvg-id="vtv1hd" group-title="VTV (50fsp)" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (MTV)
-http://bentre5.hoangai.vn:8086/stream/mtv/210/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vtv2hd" group-title="VTV (50fsp)" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 (MTV)
-http://bentre5.hoangai.vn:8086/stream/mtv/377/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vtv3hd" group-title="VTV (50fsp)" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 (MTV)
-http://bentre5.hoangai.vn:8086/stream/mtv/211/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vtv4hd" group-title="VTV (50fsp)" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 (MTV)
-http://bentre5.hoangai.vn:8086/stream/mtv/378/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vtv5hd" group-title="VTV (50fsp)" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (MTV)
-http://bentre5.hoangai.vn:8086/stream/mtv/379/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vtv6hd" group-title="VTV (50fsp)" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (MTV)
-http://bentre5.hoangai.vn:8086/stream/mtv/212/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vtv7hd" group-title="VTV (50fsp)" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 (MTV)
-http://bentre5.hoangai.vn:8086/stream/mtv/459/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vtv8hd" group-title="VTV (50fsp)" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 (MTV)
-http://bentre5.hoangai.vn:8086/stream/mtv/380/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vtv9hd" group-title="VTV (50fsp)" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (MTV)
-http://bentre5.hoangai.vn:8086/stream/mtv/381/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV (50fsp)" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ (MTV)
-http://bentre5.hoangai.vn:8086/stream/mtv/615/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV (50fsp)" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (MTV)
-http://bentre5.hoangai.vn:8086/stream/mtv/642/test/123/playlist.mpegts
-#-------------------VTV/HD-------------------#
-#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.249/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.13/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.247/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.20/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.131/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.245/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.96/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.166/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.128/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.236/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.108/test/123/playlist.mpegts
-#-------------------VTC/VOV-------------------#
-#EXTINF:0 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1 HD
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.254/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3 HD
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.251/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4 HD
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.200/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://i.imgur.com/VvfiwPJ.png",VTC5 HD
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.199/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://i.imgur.com/LPdjM0z.png",VTC6 HD
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.198/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://i.imgur.com/cnAht7i.png",VTC9 HD
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.195/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vtc10" group-title="VTC" tvg-logo="https://i.imgur.com/PaVbyxg.png",VTC10 HD
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.194/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://i.imgur.com/phXvB0t.png",VTC14 HD
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.88/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vtc16" group-title="VTC" tvg-logo="https://i.imgur.com/rltq2Dy.png",VTC16 HD
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.190/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vtc2" group-title="VTC" tvg-logo="https://i.imgur.com/WUUXS6T.png",VTC2
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.202/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://i.imgur.com/Y5FUbsY.png",VTC7
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.197/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vtc8" group-title="VTC" tvg-logo="https://i.imgur.com/4k57giG.png",VTC8
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.196/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vtc11" group-title="VTC" tvg-logo="https://i.imgur.com/0ovZkYb.png",VTC11
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.193/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vovtvhd" group-title="VTC" tvg-logo="https://i.imgur.com/lARtNRO.png",VOV TV
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.171/test/123/playlist.mpegts
-#-------------------HTV/HTVC-------------------#
-#EXTINF:0 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.193/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 HD
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.192/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 HD
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.190/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.165/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="htvccanhachd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.185/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.166/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC Gia Đình
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.170/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/W16kIQP.png",HTVC Phim
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.184/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="htvcphunuhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/MyyovVe.png",HTVC Phụ Nữ
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.171/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.186/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.181/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.180/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.178/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV Keys
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.177/test/123/playlist.mpegts
-#-------------------SCTV-------------------#
-#EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV-61.jpg" group-title="SCTV",SCTV6 
-http://116.109.64.44:80/play/X9jkalnYNNDRuC5GYPrs1BnbmJedZvJUxpxVI6CjiQQ/m3u8
-#-------------------Thiết yếu-------------------#
-#EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.169/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="nhandan" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/Ud78FHF.png",Nhân Dân TV
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.91/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="quochoi" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/YtZGuSy.png",Quốc Hội HD
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.148/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.217/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="ttxvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/GmefCpv.png",VNEWS
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.167/test/123/playlist.mpegts
+#EXTM3U url-tvg="http://trada.info/epg.xml,http://lichphatsong.xyz/schedule/beartv_epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,http://epg.51zmt.top:8000/e.xml,http://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz"
+#-----------------------VTV-------------------------------#
+#EXTINF:1 tvg-id="vtv1hd" tvg-name="VTV1 HD" group-title="VTV" tvg-logo="https://i.ibb.co/y8s34Vs/ccvtv1.webp",VTV1 HD
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.ibb.co/ZHCQSWY/ccvtv2.webp" tvg-id="vtv2hd-EPG" tvg-name="vtv2hd-id",VTV2 HD
+https://live.fptplay53.net/fnxhd1/vtv2_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.ibb.co/Y2WSTkx/ccvtv3.webp" tvg-id="ca0b8fe314bfa3c1e8f7bce244d2af34",VTV3 HD
+https://live.fptplay53.net/fnxhd1/vtv3hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png" tvg-id="80e7c76bee49cba58fabe6ef84acce0d",VTV4 HD
+https://live.fptplay53.net/fnxhd1/vtv4_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png" tvg-id="6c6c043b6a973a5178240d491f38b3d0",VTV5 HD
+https://live.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.ibb.co/hMcVcJK/ccvtv5tnb.webp" tvg-id="6c6c043b6a973a5178240d491f38b3d0",VTV5 Tây Nam Bộ HD
+https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.ibb.co/SffsRYs/ccvtv5tn.webp" tvg-id="6c6c043b6a973a5178240d491f38b3d0",VTV5 Tây Nguyên HD
+https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.ibb.co/hgBXGTZ/ccvtv6.webp" tvg-id="c5d1c65c74006e7b6578cd62f9fd96f3",VTV Cần Thơ HD
+https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.ibb.co/JjwwJCk/ccvtv7.webp" tvg-id="473cf9c98b75349d80c362df68dc145e",VTV7 HD
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.ibb.co/6JzZNqz/ccvtv8.webp" tvg-id="4a0b370a16be224d9c109e4ac5691d03",VTV8 HD
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.ibb.co/FHFdRNC/ccvtv9.webp" tvg-id="8a03c609bd184e905a811c207aca42b4",VTV9 HD
+https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist.m3u8
+#-----------------------VTC-------------------------------#
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/mC3Cvfm/ccvtc1.webp" tvg-id="fb0ac43a4ee4b8c9a4217dcc64912702",VTC1 HD
+https://live.fptplay53.net/fnxhd2/vtc1_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/MfRJfgm/ccvtc2.webp" tvg-id="fb0ac43a4ee4b8c9a4217dcc64912702",VTC2 HD
+https://live.fptplay53.net/fnxhd2/vtc2_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/bRsBcyd/ccvtc3.webp" tvg-id="3d846e6634d05c62ffd12721005852f5",VTC3 HD
+https://live.fptplay53.net/fnxhd2/vtc3hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/c1MK3VC/ccvtc4.webp" tvg-id="a5cdd28d8f6f252e0b7044f03abc62ae",VTC4 HD
+https://live.fptplay53.net/fnxhd2/vtc4_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/v1bS1qB/ccvtc5.webp" tvg-id="a5cdd28d8f6f252e0b7044f03abc62ae",VTC5 HD
+https://live.fptplay53.net/fnxhd2/vtc5_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/mSVx5qD/ccvtc6.webp" tvg-id="e557f59a2e98964ebb02cbb680beb520",VTC6 HD
+https://live.fptplay53.net/fnxhd2/vtc6_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/GM316DX/ccvtc7.webp" tvg-id="01faa81a8fd641b6054c5c487909fa99",VTC7 HD
+https://live.fptplay53.net/fnxhd2/todaytv_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/9ykJYxD/ccvtc8.webp" tvg-id="4621f306582ff303e6a3dc855749e1e3",VTC8 HD
+https://live.fptplay53.net/fnxhd2/vtc8_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/GcXQ0h2/ccvtc9.webp" tvg-id="83d28e41038c5c60a30ad17df59ffe73",VTC9 HD
+https://live.fptplay53.net/fnxhd2/vtc9_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/4fPKsm7/ccvtv10.webp" tvg-id="83d28e41038c5c60a30ad17df59ffe73",VTC10 HD
+https://live.fptplay53.net/fnxhd2/vtc10hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/j88bPrT/ccvtc11.webp" tvg-id="83d28e41038c5c60a30ad17df59ffe73",VTC11 HD
+https://live.fptplay53.net/fnxhd2/vtc11_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/q1SbBCG/ccvtc14.webp" tvg-id="83d28e41038c5c60a30ad17df59ffe73",VTC14 HD
+https://live.fptplay53.net/fnxhd2/vtc14_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/gvCYsdQ/ccvtc16.webp" tvg-id="83d28e41038c5c60a30ad17df59ffe73",VTC16 HD
+https://live.fptplay53.net/fnxhd2/vtc16_hls.smil/chunklist.m3u8
+#-----------------------HTV-------------------------------#
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/cw0Jym1/cchtvkey.webp" tvg-id="6dcfc8a79c8341d5a4c5bf672928fba4",HTV Keys HD
+https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/R6myMTc/cchtvthethao.webp" tvg-id="cecd99d151bcb92a3866024f08c07b9f",HTV Thể Thao HD
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/dfGZxST/cchtv1.webp" tvg-id="22b8cd8d92ab071051b41b2c09a65736",HTV1 HD
+https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/6nmzXRT/cchtv2.webp" tvg-id="569cc29df22dd2e860064283a94982f6",HTV2 Vie Channel HD
+https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/8rWVRBf/cchtv3.webp" tvg-id="f73a137acaaf6d8b228e644912b812bb",HTV3 HD
+https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/bX1LD0H/cchtv7.webp" tvg-id="1b155d629006898bfada5abdad9adb45",HTV7 HD
+https://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/j6BCF0M/cchtv9.webp" tvg-id="a5912ec47c1aef3975515bede476bbcf",HTV9 HD
+https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/Z1Dhx8X/cchtvccanhac.webp" tvg-id="4009e0a06b8eba5abf6be992510a7eac",HTVC Ca Nhạc
+https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/25yJ9rv/cchtvcdulich.webp" tvg-id="ef5e2ae9aacf989d46128376630a73d0",HTVC Du Lịch và Cuộc Sống
+https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/xgtfrnk/cchtvcgiadinh.webp" tvg-id="aef2a410c83827f38f23b43163e41c0d",HTVC Gia Đình
+https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/YB72fKd/cchtvcphim.webp" tvg-id="61894f47d320186ea79a37150dcf370d",HTVC Phim
+https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/d6ZbQc7/cchtvcphunu.webp" tvg-id="bfba9bb09043b9a567c4f8ef59bca7dc",HTVC Phụ Nữ HD
+https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/Z6Hf06M/cchtvcthuanviet.webp" tvg-id="58b9fe39a6a2666a07b921bdd83a2ba4",HTVC Thuần Việt HD
+https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/vhLGXcK/cchtvcplus.webp" tvg-id="fd51b6c6836ec943e7ad21f0036f879e",HTVC+ HD
+https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 
-#-------------------Other-------------------#
-#EXTINF:-1 tvg-id="youtv" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600823396313/7b474bf7bbce_640_360.png" group-title="Other",HanoiCab2 YouTV
-http://8b0009790f95.sn.mynetname.net:4022/udp/225.1.1.207:30120
-#EXTINF:-1 tvg-id="mtvhd" group-title="Other" tvg-logo="https://banner2.cleanpng.com/20180531/bap/kisspng-television-mtv-production-companies-video-mtv-logo-5b10506a0313d1.0032348315277958180126.jpg",MTV
-http://8b0009790f95.sn.mynetname.net:4022/udp/225.1.1.245:30120
-#-------------------Địa phương HD-------------------#
-#EXTINF:0 tvg-id="laocai" group-title="Địa phương " tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH Lào Cai
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.119/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="yenbai" group-title="Địa phương " tvg-logo="https://i.imgur.com/AELRXuX.png",YTV HD _ TH Yên Bái
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.39/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="dienbien" group-title="Địa phương " tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV _ TH Điện Biên
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.74/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="hoabinh" group-title="Địa phương " tvg-logo="https://i.imgur.com/cgKnwnX.png",HBTV HD _ TH Hòa Bình
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.168/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="laichau" group-title="Địa phương " tvg-logo="https://i.imgur.com/we3GCjr.png",LTV HD _ TH Lai Châu
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.36/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="hagiang" group-title="Địa phương " tvg-logo="https://i.imgur.com/h7uPIEP.png",HGTV _ TH Hà Giang
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.62/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="caobang" group-title="Địa phương " tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV HD _ TH Cao Bằng
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.102/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="backan" group-title="Địa phương " tvg-logo="https://i.imgur.com/msjevyp.png",TBK HD _ TH Bắc Kạn
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.126/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="langson" group-title="Địa phương " tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD _ TH Lạng Sơn
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.160/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="tuyenquang" group-title="Địa phương " tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV _ TH Tuyên Quang
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.188/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="thainguyen" group-title="Địa phương " tvg-logo="https://i.imgur.com/UBcqMiY.png",TN1 HD _ TH Thái Nguyên
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.179/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="phutho" group-title="Địa phương " tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD _ TH Phú Thọ
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.165/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="bacgiang" group-title="Địa phương " tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV _ TH Bắc Giang
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.164/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="quangninh1" group-title="Địa phương " tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH Quảng Ninh
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.181/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="quangninh3" group-title="Địa phương " tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH Quảng Ninh
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.180/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="bacninh" group-title="Địa phương " tvg-logo="https://i.imgur.com/zUFSFCV.png",BTV _ TH Bắc Ninh
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.40/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="hanoi1" group-title="Địa phương " tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH Hà Nội
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.186/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương " tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH Hà Nội
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.125/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="haiduong" group-title="Địa phương " tvg-logo="https://i.imgur.com/QmzXd4R.png",THD _ TH Hải Dương
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.158/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="haiphong" group-title="Địa phương " tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD _ TH TP. Hải Phòng
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.44/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="haiphongplus" group-title="Địa phương " tvg-logo="https://i.imgur.com/s3yq8AW.png",THP+ HD _ TH TP. Hải Phòng
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.113/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="ninhbinh" group-title="Địa phương " tvg-logo="https://i.imgur.com/XuYnZWe.png",NTV HD _ TH Ninh Bình
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.185/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="thaibinh" group-title="Địa phương " tvg-logo="https://i.imgur.com/fP7B6A4.png",TBTV HD _ TH Thái Bình
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.99/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vinhphuc" group-title="Địa phương " tvg-logo="https://i.imgur.com/rrxDn5n.png",VP HD _ TH Vĩnh Phúc
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.99/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="nghean" group-title="Địa phương " tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD _ TH Nghệ An
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.183/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="hatinh" group-title="Địa phương " tvg-logo="https://i.imgur.com/R4uthe7.png",HTTV HD _ TH Hà Tĩnh
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.75/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="quangtri" group-title="Địa phương " tvg-logo="https://i.imgur.com/yIHs2sI.png",QRTV HD _ TH Quảng Trị
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.117/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="danang1" group-title="Địa phương " tvg-logo="https://i.imgur.com/6OWQ8lU.png",DaNangTV1 HD _ TH TP. Đà Nẵng
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.147/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="danang2" group-title="Địa phương " tvg-logo="https://i.imgur.com/hkzIqEV.png",DaNangTV2 HD _ TH TP. Đà Nẵng
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.146/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="quangnam" group-title="Địa phương " tvg-logo="https://i.imgur.com/uWHWxZB.png",QRT HD _ TH Quảng Nam
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.50/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="quangngai" group-title="Địa phương " tvg-logo="https://i.imgur.com/McmKwa8.png",PTQ _ TH Quảng Ngãi
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.174/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="binhdinh" group-title="Địa phương " tvg-logo="https://i.imgur.com/APCkufv.png",BTV _ TH Bình Định
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.145/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="phuyen" group-title="Địa phương " tvg-logo="https://i.imgur.com/r2xMHkT.png",PTP HD _ TH Phú Yên
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.58/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="khanhhoa" group-title="Địa phương " tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD _ TH Khánh Hòa
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.133/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="ninhthuan" group-title="Địa phương " tvg-logo="https://i.imgur.com/cx5AaTV.png",NTV HD _ TH Ninh Thuận
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.178/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="binhthuan" group-title="Địa phương " tvg-logo="https://i.imgur.com/Bu1xsiJ.png",BTV HD _ TH Bình Thuận
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.124/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="kontum" group-title="Địa phương " tvg-logo="https://i.imgur.com/C4yYbbi.png",KRT _ TH Kon Tum
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.36/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="gialai" group-title="Địa phương " tvg-logo="https://i.imgur.com/csqFzvA.png",THGL HD _ TH Gia Lai
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.176/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="daklak" group-title="Địa phương " tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH Đắk Lắk
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.64/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="lamdong" group-title="Địa phương " tvg-logo="https://i.imgur.com/Tv0fNk3.png",LTV HD _ TH Lâm Đồng
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.177/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="binhphuoc1" group-title="Địa phương " tvg-logo="https://i.imgur.com/DHWoGfP.png",BPTV1 HD _ TH Bình Phước
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.23/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="binhphuoc2" group-title="Địa phương " tvg-logo="https://i.imgur.com/CyhvaPs.png",BPTV2 HD _ TH Bình Phước
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.38/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="binhduong1" group-title="Địa phương " tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD _ TH Bình Dương
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.150/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="binhduong2" group-title="Địa phương " tvg-logo="https://i.imgur.com/LpV0d3Q.png",BTV2 HD _ TH Bình Dương
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.149/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="anvienhd" group-title="Địa phương " tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.189/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="dongnai1" group-title="Địa phương " tvg-logo="https://i.imgur.com/blOZQPI.png",ĐNRTV1 HD _ TH Đồng Nai
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.152/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="dongnai2" group-title="Địa phương " tvg-logo="https://i.imgur.com/tIvmaaX.png",ĐNRTV2 HD _ TH Đồng Nai
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.151/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="tayninh" group-title="Địa phương " tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV11 _ TH Tây Ninh
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.130/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vungtau" group-title="Địa phương " tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT HD _ TH Bà Rịa Vũng Tàu
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.175/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="dongthap" group-title="Địa phương " tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 _ TH Đồng Tháp
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.163/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="" group-title="Địa phương " tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.210/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="tiengiang" group-title="Địa phương " tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG HD _ TH Tiền Giang
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.170/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="angiang" group-title="Địa phương " tvg-logo="https://i.imgur.com/2On2R0G.png",ATV HD _ TH An Giang
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.173/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="bentre" group-title="Địa phương " tvg-logo="https://i.imgur.com/9UZtJvv.png",THBT HD _ TH Bến Tre
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.156/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vinhlong1hd" group-title="Địa phương " tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH Vĩnh Long
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.155/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa phương " tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH Vĩnh Long
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.154/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vinhlong3hd" group-title="Địa phương " tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD _ TH Vĩnh Long
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.235/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa phương " tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD _ TH Vĩnh Long
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.25/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="travinh" group-title="Địa phương " tvg-logo="https://i.imgur.com/dHOm6Ll.png",THTV HD _ TH Trà Vinh
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.172/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="haugiang" group-title="Địa phương " tvg-logo="https://i.imgur.com/a3joZFM.png",HGTV HD _ TH Hậu Giang
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.157/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="kiengiang" group-title="Địa phương " tvg-logo="https://i.imgur.com/jCTogPb.png",KG _ TH Kiên Giang
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.182/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="baclieu" group-title="Địa phương " tvg-logo="https://i.imgur.com/FoAzh3R.png",BLTV HD _ TH Bạc Liêu
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.61/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="camau" group-title="Địa phương " tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD _ TH Cà Mau
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.104/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="cantho" group-title="Địa phương " tvg-logo="https://i.imgur.com/NyrxzES.png",THTPCT HD _ TH TP. Cần Thơ
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.132/test/123/playlist.mpegts
-
-#EXTINF:0 tvg-id="sonla" group-title="Địa phương " tvg-logo="https://i.imgur.com/QZT6GIh.png",STV _ TH Sơn La
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.98/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="hanam" group-title="Địa phương " tvg-logo="https://i.imgur.com/DCSPntI.png",THHN _ TH Hà Nam
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.63/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="hungyen" group-title="Địa phương " tvg-logo="https://i.imgur.com/deNnP9h.png",HY _ TH Hưng Yên
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.118/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="namdinh" group-title="Địa phương " tvg-logo="https://i.imgur.com/qW62XEm.png",NTV _ TH Nam Định
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.120/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="thanhhoa" group-title="Địa phương " tvg-logo="https://i.imgur.com/NlOwltd.png",TTV _ TH Thanh Hóa
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.184/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="quangbinh" group-title="Địa phương " tvg-logo="https://i.imgur.com/8yOdFDx.png",QBTV _ TH Quảng Bình
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.164/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="hue" group-title="Địa phương " tvg-logo="https://i.imgur.com/29px2Qy.png",TRT _ TH Thừa Thiên Huế
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.161/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="longan" group-title="Địa phương " tvg-logo="https://i.imgur.com/jBWD3It.png",LA34 _ TH Long An
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.162/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="soctrang" group-title="Địa phương " tvg-logo="https://i.imgur.com/5KQJoBg.png",STV1 _ TH Sóc Trăng
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.159/test/123/playlist.mpegts
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.ibb.co/WG9xkxb/ccquochoi.webp",Quốc Hội TV
+https://live.fptplay53.net/fnxhd2/quochoivn_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="qpvnhd" tvg-logo="https://i.ibb.co/tK6PMzy/ccquocphong.webp",Quốc Phòng TV
+https://live.fptplay53.net/fnxhd2/quochoivn_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="antvhd" tvg-logo="https://i.ibb.co/P6ZDPCf/ccanninh.webp",An Ninh TV
+https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="nhandan" tvg-logo="https://i.ibb.co/P1cSJjp/ccnhandan.png",Nhân Dân TV
+https://live.fptplay53.net/fnxhd2/truyenhinhnhandan_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="ttxvnhd" group-title="Địa phương" tvg-logo="https://i.ibb.co/9G9bfmf/ccthongtan.webp",V.News TV
+https://live.fptplay53.net/epzhd2/ttxvn_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1  group-title="Địa phương" tvg-id="vovtvhd" tvg-logo="https://i.ibb.co/TR49XV0/ccvovtv.webp",VOV TV
+https://live.fptplay53.net/fnxsd1/vovtvsd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="vinhlong1hd" tvg-logo="https://i.ibb.co/PGxCzX8/ccVL1.webp",Vĩnh Long 1
+https://live.fptplay53.net/epzhd2/vinhlong1_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="vinhlong2hd" tvg-logo="https://i.ibb.co/0FDCSbz/ccVL2.webp",Vĩnh Long 2
+https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="vinhlong3hd" tvg-logo="https://i.ibb.co/xg7jXGs/ccVL3.webp",Vĩnh Long 3
+https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="vinhlong4hd" tvg-logo="https://i.ibb.co/74ydSzT/ccVL4.webp",Vĩnh Long 4
+https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="vinhphuc" tvg-logo="https://i.ibb.co/9YtVjcy/ccvinhphuc.webp",Vĩnh Phúc
+https://live.fptplay53.net/fnxsd1/vinhphuc_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="vungtau" tvg-logo="https://i.ibb.co/ThYZvSW/ccvungtau.webp",Vũng Tàu
+https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="angiang" tvg-logo="https://i.ibb.co/2S90Qjd/ccangiang.webp",An Giang
+https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="bentre" tvg-logo="https://i.ibb.co/xhSTHBj/ccbentre.webp",Bến Tre
+https://live.fptplay53.net/epzsd1/bentre_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="baclieu" tvg-logo="https://i.ibb.co/sq4hBPG/ccbaclieu.webp",Bạc Liêu
+https://live.fptplay53.net/epzsd1/baclieu_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="baclieu" tvg-logo="https://i.ibb.co/DQq0psw/ccbacninh.webp",Bắc Ninh
+https://live.fptplay53.net/fnxsd1/bacninh_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="baclieu" tvg-logo="https://1clip.bacgiangtv.vn/upload/files/logo/v3/logo_v3.png",Bắc Giang
+https://live.fptplay53.net/fnxsd1/bacgiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="baclieu" tvg-logo="https://s129135.cdn.mytvnet.vn/vimages/d8/87/7c/ce/ef/f2/d87ce-pbckntv-channel-unkn.png",Bắc Kạn
+https://live.fptplay53.net/fnxsd1/backan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="baclieu" tvg-logo="https://i.ibb.co/Pht0QdD/ccbinhdinh.webp",Bình Định
+https://live.fptplay53.net/epzsd1/binhdinh_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="baclieu" tvg-logo="https://i.ibb.co/sCB0t4c/BTV1.png",Bình Dương 1
+https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="baclieu" tvg-logo="https://i.ibb.co/dLSwN86/BTV2.png",Bình Dương 2
+https://live.fptplay53.net/epzhd2/btv2_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="baclieu" tvg-logo="https://i.ibb.co/b2PCdZW/ccbinhthuan.png",Bình Thuận
+https://live.fptplay53.net/epzsd1/binhthuan_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="camau" tvg-logo="https://i.ibb.co/h9Kb6FW/cccamau.webp",Cà Mau
+https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="cantho" tvg-logo="https://i.ibb.co/7tG6M3v/cccantho.png",Cần Thơ
+https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="caobang" tvg-logo="https://i.ibb.co/wWgP3xk/cccaobang.webp",Cao Bằng
+https://live.fptplay53.net/fnxsd1/caobang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="danang1" tvg-logo="https://i.ibb.co/zRTmjRZ/ccdanang1.webp",Đà Nẵng 1
+https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="danang2" tvg-logo="https://i.ibb.co/89GWvQL/ccdanang2.webp",Đà Nẵng 2
+https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="daklak" tvg-logo="https://i.ibb.co/PNzprxr/ccdaklak.webp",Đăk Lăk
+https://live.fptplay53.net/epzsd1/daklak_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="daknong" tvg-logo="https://i.ibb.co/LSTmygk/ccdaknong.webp",Đăk Nông
+https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="dienbien" tvg-logo="https://i.ibb.co/wgGDnCV/ccdienbien-svg.png",Điện Biên
+https://live.fptplay53.net/fnxsd1/dienbien_hls.smil/chunklist_b2500000.m3u8 
+#EXTINF:-1 group-title="Địa phương" tvg-id="dongnai1" tvg-logo="https://i.ibb.co/brWbQt4/ccdongnai1.webp",Đồng Nai 1
+https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="dongnai2" tvg-logo="https://i.ibb.co/0sm75cC/ccdongnai2.webp",Đồng Nai 2
+https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="dongthap" tvg-logo="https://i.ibb.co/ZcfJyD2/ccdongthap.webp",Đồng Tháp 1
+https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="mientay" tvg-logo="https://i.ibb.co/CVdMzC3/ccmientay.webp",Đồng Tháp 2
+https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="hanoi1" tvg-logo="https://i.ibb.co/yQxsXhs/cchanoi1.webp",Hà Nội 1
+https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="hanoi2" tvg-logo="https://i.ibb.co/B4Gy5BW/cchanoi2.webp",Hà Nội 2
+https://live.fptplay53.net/fnxhd2/hanoitv2_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="hanam" tvg-logo="https://i.ibb.co/pvjwJSL/cchanam.webp",Hà Nam
+https://live.fptplay53.net/fnxsd1/hanam_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="hagiang" tvg-logo="https://i.ibb.co/2tJgRCq/cchagiang.webp",Hà Giang
+https://live.fptplay53.net/fnxsd1/hagiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="hatinh" tvg-logo="https://i.ibb.co/G7tnzWx/cchatinh.webp",Hà Tĩnh
+https://live.fptplay53.net/fnxsd1/hatinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="haiduong" tvg-logo="https://i.ibb.co/MZHbjxw/cchaiduong.webp",Hải Dương
+https://live.fptplay53.net/fnxsd1/haiduong_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="haiphong" tvg-logo="https://i.ibb.co/yykrwPX/cchaiphong.webp",Hải Phòng
+https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="haiphongplus" tvg-logo="https://i.ibb.co/cJRWQWw/cchaiphongplus.webp",Hải Phòng+
+https://live.fptplay53.net/fnxsd1/haiphongplus_hls.smil/chunklist_b2500000.m3u8 
+#EXTINF:-1 group-title="Địa phương" tvg-id="haugiang" tvg-logo="https://i.ibb.co/ZVsNkSs/cchaugiang.webp",Hậu Giang
+https://live.fptplay53.net/epzsd1/haugiang_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="hoabinh" tvg-logo="https://i.ibb.co/YbHHR7W/cchoabinh.webp",Hòa Bình
+https://live.fptplay53.net/fnxsd1/hoabinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="hue" tvg-logo="https://i.ibb.co/9yc6TL4/cchue.webp",Huế
+https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="hungyen" tvg-logo="https://i.ibb.co/7Qk3tYz/cchungyen.webp",Hưng Yên
+https://live.fptplay53.net/fnxsd1/hungyen_2000.stream/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="hungyen" tvg-logo="https://i.ibb.co/7VVbjhx/KG-Kien-Giang-logo-2009.webp",Kiên Giang
+https://live.fptplay53.net/epzsd1/kiengiang_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="hungyen" tvg-logo="https://i.ibb.co/HzqLz0M/LA34.png",Long An
+https://live.fptplay53.net/epzsd1/longan_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="yenbai" tvg-logo="https://i.ibb.co/3WFQXgB/Yen-Bai-cc.webp",Yên Bái
+https://live.fptplay53.net/fnxsd1/yenbai_hls.smil/chunklist_b2500000.m3u8
 #-------------------Quốc tế HD-------------------#
-#EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.21/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="animalhd" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.231/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="animaxhd" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.135/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="afnhd" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.198/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="axnhd" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.225/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CbeeBies
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.134/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="bbcearth" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.24/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="bbclifestyle" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.52/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="bbcworldnews" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.74/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="bloomberg" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/rxFZgIK.png",Bloomberg
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.91/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="boomerang" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/rRDAzm4.png",Boomerang
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.138/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.231/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.202/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="cnn" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.242/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="davinci" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.197/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="discoveryasiahd" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.223/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="discoveryhd" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.238/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="dreamworks" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.136/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="dw" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (English)
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.46/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="fashionhd" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/ALDt1JX.png",Fashion TV
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.227/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="france24eng" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/YF2zMTz.png",France 24 (English)
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.211/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.112/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.233/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="kbsworld" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/vylHBC8.png",KBS World
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.196/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="nhkworld" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/Et3vExm.png",NHK World Japan
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.47/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="outdoorhd" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.215/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="tlchd" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.236/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 Monde Asie
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.200/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.139/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="arirang" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/DZNTBjC.png",Arirang
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.201/test/123/playlist.mpegts
-#EXTINF:0 tvg-id="arirang" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.227/test/123/playlist.mpegts
+#EXTINF:-1 tvg-id="animalhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animal-planet_156335404347.jpg" group-title="Quốc Tế (HD)",Animal Planet (HD 8Mbps)
+http://tdgtech.net:3022/udp/225.1.1.231:30120
+#EXTINF:-1 tvg-id="animaxhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animax_160869788037.png" group-title="Quốc Tế (HD)",Animax (HD 8Mbps)
+http://tdgtech.net:3022/udp/225.1.1.135:30120
+#EXTINF:-1 tvg-id="afnhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_asian-food-channel_158279877356.png" group-title="Quốc Tế (HD)",Asian Food Network (HD 8Mbps)
+http://tdgtech.net:3022/udp/225.1.1.198:30120
+#EXTINF:-1 tvg-id="axnhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png" group-title="Quốc Tế (HD)",AXN (HD 8Mbps)
+http://tdgtech.net:3022/udp/225.1.2.225:30120
+#EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://vtv1.mediacdn.vn/thumb_w/650/2018/3/23/baby-tv-crop-15217904812391954901115.jpg" group-title="Quốc Tế (HD)",Baby TV (HD 8Mbps)
+http://tdgtech.net:3022/udp/225.1.2.146:30120
+#EXTINF:-1 tvg-id="cbeebies" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cbeebies_15233280024.png" group-title="Quốc Tế (HD)",BBC CbeeBies (HD 8Mbps)
+http://tdgtech.net:3022/udp/225.1.1.134:30120
+#EXTINF:-1 tvg-id="bbcearth" tvg-logo="https://p.kindpng.com/picc/s/287-2872125_bbc-earth-hd-png-download.png" group-title="Quốc Tế (HD)",BBC Earth (HD 8Mbps)
+http://tdgtech.net:3022/udp/225.1.2.24:30120
+#EXTINF:-1 tvg-id="boomerang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_boomerang_152240335127.png" group-title="Quốc Tế (HD)",BOOMERANG (HD 8Mbps)
+http://tdgtech.net:3022/udp/225.1.1.138:30120
+#EXTINF:-1 tvg-id="boomerang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_boomerang_152240335127.png" group-title="Quốc Tế (HD)",BOOMERANG (HD 4Mbps)
+http://tdgtech.net:3022/udp/225.1.4.16:30120
+#EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png" group-title="Quốc Tế (HD)",CARTOON NETWORK (HD 8Mbps)
+http://tdgtech.net:3022/udp/225.1.2.231:30120
+#EXTINF:-1 tvg-id="cinemaworldhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cinemaworld_146580871725.png" group-title="Quốc Tế (HD)",Cinema World (HD 8Mbps)
+http://tdgtech.net:3022/udp/225.1.1.142:30120
+#EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_max-by-hbo_158830569489.png" group-title="Quốc Tế (HD)",CINEMAX (HD 8Mbps)
+http://tdgtech.net:3022/udp/225.1.2.86:30120
+#EXTINF:-1 tvg-id="davinci" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_160135703111.png" group-title="Quốc Tế (HD)",Da Vinci (HD 8Mbps)
+http://tdgtech.net:3022/udp/225.1.1.197:30120
+#EXTINF:-1 tvg-id="discoveryasiahd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery-asia_152332466749.png" group-title="Quốc Tế (HD)",Discovery Asia (HD 8Mbps)
+http://tdgtech.net:3022/udp/225.1.2.223:30120
+#EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery_157259072379.png" group-title="Quốc Tế (HD)",Discovery Channel (HD 8Mbps)
+http://tdgtech.net:3022/udp/225.1.1.238:30120
+#EXTINF:-1 tvg-id="dreamworks" tvg-logo="https://www.awn.com/sites/default/files/styles/original/public/image/featured/dwa-logo-e1570499602899_1.jpg?itok=2-ZeJGUM" group-title="Quốc Tế (HD)",Dreamworks (HD 8Mbps)
+http://tdgtech.net:3022/udp/225.1.1.136:30120
+#EXTINF:-1 tvg-id="dw" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dw_145681789801.jpg" group-title="Quốc Tế (HD)",DW (HD 8Mbps)
+http://tdgtech.net:3022/udp/225.1.1.46:30120
+#EXTINF:-1 tvg-id="fashionhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fashion-tv_146580821688.png" group-title="Quốc Tế (HD)",Fashion TV (HD 8Mbps)
+http://tdgtech.net:3022/udp/225.1.2.227:30120
+#EXTINF:-1 tvg-id="fashionhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fashion-tv_146580821688.png" group-title="Quốc Tế (HD)",Fashion TV 4K
+http://tdgtech.net:3022/udp/225.1.2.232:30120
+#EXTINF:-1 tvg-id="fashionhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fashion-tv_146580821688.png" group-title="Quốc Tế (HD)",Fashion TV 4K
+http://tdgtech.net:3022/udp/225.1.2.234:30120
+#EXTINF:-1 tvg-id="hbohd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" group-title="Quốc Tế (HD)",HBO (HD 8Mbps)
+http://tdgtech.net:3022/udp/225.1.2.233:30120
+#EXTINF:-1 tvg-id="hbohd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" group-title="Quốc Tế (HD)",HBO (HD 12Mbps)
+http://tdgtech.net:3022/udp/225.1.4.90:30120
+#EXTINF:-1 tvg-id="kix" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kix_152879800963.png" group-title="Quốc Tế (HD)",KIX (HD 8Mbps)
+http://tdgtech.net:3022/udp/225.1.2.144:30120
+#EXTINF:-1 tvg-id="kbsworld" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kbs-world_145931294803.jpg" group-title="Quốc Tế (HD)",KBS WORLD (HD 8Mbps)
+http://tdgtech.net:3022/udp/225.1.1.196:30120
+#EXTINF:-1 tvg-id="ngchd" tvg-logo="https://w7.pngwing.com/pngs/42/706/png-transparent-logo-national-geographic-nat-geo-people-discovery-channel-brand-design-angle-text-rectangle-thumbnail.png" group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
+http://tdgtech.net:3022/udp/225.1.2.235:30120
+#EXTINF:-1 tvg-id="ngwhd" tvg-logo="https://img.hplus.com.vn/728x409/banner/2019/07/16/331047-nat_geo_wild.png" group-title="Quốc Tế (HD)",NAT GEO WILD (HD 8Mbps)
+http://tdgtech.net:3022/udp/225.1.1.211:30120
+#EXTINF:-1 tvg-id="nhkworld" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_nhk-world-hd_150614115837.png" group-title="Quốc Tế (HD)",NHK WORLD JAPAN (HD 8Mbps)
+http://tdgtech.net:3022/udp/225.1.1.47:30120
+#EXTINF:-1 tvg-id="outdoorhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_156456021259.jpg" group-title="Quốc Tế (HD)",Outdoor Channel (HD 8Mbps)
+http://tdgtech.net:3022/udp/225.1.2.215:30120
+#EXTINF:-1 tvg-id="tlchd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_travel-living_156455581568.jpg" group-title="Quốc Tế (HD)",TLC (HD 8Mbps)
+http://tdgtech.net:3022/udp/225.1.1.236:30120
+#EXTINF:-1 tvg-id="davinci" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_160135703111.png" group-title="Quốc Tế (HD)",Da Vinci (HD 4Mbps)
+http://tdgtech.net:3022/udp/225.1.4.38:30120
+#EXTINF:-1 tvg-id="ngchd" tvg-logo="https://w7.pngwing.com/pngs/42/706/png-transparent-logo-national-geographic-nat-geo-people-discovery-channel-brand-design-angle-text-rectangle-thumbnail.png" group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
+http://tdgtech.net:3022/udp/225.1.4.31:30120
+#EXTINF:-1 tvg-id="warnerhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_warner-tv_146581284899.png" group-title="Quốc Tế (HD)",Warner TV (HD 8Mbps)
+http://tdgtech.net:3022/udp/225.1.1.139:30120
 
 #EXTINF:0 group-title="📹 Film" tvg-logo="",🇻🇳| 
 #EXTINF:0 group-title="📹 Film" tvg-logo="",🇰🇷| 
