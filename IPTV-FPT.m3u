@@ -21,7 +21,12 @@ https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.ibb.co/6JzZNqz/ccvtv8.webp" tvg-id="4a0b370a16be224d9c109e4ac5691d03",VTV8 HD
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.ibb.co/FHFdRNC/ccvtv9.webp" tvg-id="8a03c609bd184e905a811c207aca42b4",VTV9 HD
+#-----------------------VTVCap-------------------------------#
 https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
+https://thvip.site/vtvcab1/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
+https://thvip.site/vtvcab19/index.m3u8
 #-----------------------VTC-------------------------------#
 #EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/mC3Cvfm/ccvtc1.webp" tvg-id="fb0ac43a4ee4b8c9a4217dcc64912702",VTC1 HD
 https://live.fptplay53.net/fnxhd2/vtc1_vhls.smil/chunklist.m3u8
