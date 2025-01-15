@@ -28,33 +28,6 @@ https://thvip.site/vtvcab1/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
 https://thvip.site/vtvcab19/index.m3u8
 #EXTINF:0 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports HD (HD 8.5Mbps)
-#-----------------------VTC-------------------------------#
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/mC3Cvfm/ccvtc1.webp" tvg-id="fb0ac43a4ee4b8c9a4217dcc64912702",VTC1 HD
-https://live.fptplay53.net/fnxhd2/vtc1_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/MfRJfgm/ccvtc2.webp" tvg-id="fb0ac43a4ee4b8c9a4217dcc64912702",VTC2 HD
-https://live.fptplay53.net/fnxhd2/vtc2_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/bRsBcyd/ccvtc3.webp" tvg-id="3d846e6634d05c62ffd12721005852f5",VTC3 HD
-https://live.fptplay53.net/fnxhd2/vtc3hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/c1MK3VC/ccvtc4.webp" tvg-id="a5cdd28d8f6f252e0b7044f03abc62ae",VTC4 HD
-https://live.fptplay53.net/fnxhd2/vtc4_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/v1bS1qB/ccvtc5.webp" tvg-id="a5cdd28d8f6f252e0b7044f03abc62ae",VTC5 HD
-https://live.fptplay53.net/fnxhd2/vtc5_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/mSVx5qD/ccvtc6.webp" tvg-id="e557f59a2e98964ebb02cbb680beb520",VTC6 HD
-https://live.fptplay53.net/fnxhd2/vtc6_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/GM316DX/ccvtc7.webp" tvg-id="01faa81a8fd641b6054c5c487909fa99",VTC7 HD
-https://live.fptplay53.net/fnxhd2/todaytv_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/9ykJYxD/ccvtc8.webp" tvg-id="4621f306582ff303e6a3dc855749e1e3",VTC8 HD
-https://live.fptplay53.net/fnxhd2/vtc8_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/GcXQ0h2/ccvtc9.webp" tvg-id="83d28e41038c5c60a30ad17df59ffe73",VTC9 HD
-https://live.fptplay53.net/fnxhd2/vtc9_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/4fPKsm7/ccvtv10.webp" tvg-id="83d28e41038c5c60a30ad17df59ffe73",VTC10 HD
-https://live.fptplay53.net/fnxhd2/vtc10hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/j88bPrT/ccvtc11.webp" tvg-id="83d28e41038c5c60a30ad17df59ffe73",VTC11 HD
-https://live.fptplay53.net/fnxhd2/vtc11_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/q1SbBCG/ccvtc14.webp" tvg-id="83d28e41038c5c60a30ad17df59ffe73",VTC14 HD
-https://live.fptplay53.net/fnxhd2/vtc14_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/gvCYsdQ/ccvtc16.webp" tvg-id="83d28e41038c5c60a30ad17df59ffe73",VTC16 HD
-https://live.fptplay53.net/fnxhd2/vtc16_hls.smil/chunklist.m3u8
 #-----------------------HTV-------------------------------#
 #EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/cw0Jym1/cchtvkey.webp" tvg-id="6dcfc8a79c8341d5a4c5bf672928fba4",HTV Keys HD
 https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
@@ -429,7 +402,6 @@ http://tdgtech.net:3022/udp/225.1.4.31:30120
 #EXTINF:-1 tvg-id="warnerhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_warner-tv_146581284899.png" group-title="Quốc Tế (HD)",Warner TV (HD 8Mbps)
 http://tdgtech.net:3022/udp/225.1.1.139:30120
 #----------*-Quốc tế-*----------#
-
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
 http://125hvt.ddns.net:21585/axn/index.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
@@ -442,7 +414,6 @@ http://125hvt.ddns.net:21585/discovery/index.m3u8
 http://125hvt.ddns.net:21585/cnn/index.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/KZqwTe4.png",TLC
 http://125hvt.ddns.net:21585/tlc/index.m3u8
-
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/DZNTBjC.png",Arirang
 https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
@@ -466,7 +437,6 @@ https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://telegra.ph/file/bccc6463dd079c2120699.png",KiX
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://imgur.com/XjokfTR.png",History
-
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Love-Nature-TV.png",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
@@ -894,7 +864,6 @@ https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210211/ballerina
 #EXTINF:0 group-title="📹 Film" tvg-logo="https://www1.showbizchaua.com/wp-content/uploads/2018/01/TMM-BANNER.jpg",🇺🇸| Ác Quỷ Lúc Nửa Đêm
 https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220401/themidnightman_2016_ca_1080p_sub_logofptplay/bee18ecfccfa2c32ca2b11ccda851be3.smil/chunklist_b4628000.m3u8?cc
 +#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
-
 #-------Phim HD------
 #EXTINF:-1 group-title="Phim lẻ" tvg-logo="https://static.fptplay.net/static/img/share/video/20_11_2019/ndsd1g21f7qzhyme3bhjrjxfop120-11-2019_07g17-27.jpg?w=282&mode=scale",Giấc Mộng Tây Du 4 - Phục Ma Ký
 https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20191119/dream_journey_4_biography_of_demon_1080p_logofptplay/28daca8385fdba09988badcf6f76467f.smil/playlist.m3u8
