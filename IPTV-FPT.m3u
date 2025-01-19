@@ -21,12 +21,8 @@ https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.ibb.co/6JzZNqz/ccvtv8.webp" tvg-id="4a0b370a16be224d9c109e4ac5691d03",VTV8 HD
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.ibb.co/FHFdRNC/ccvtv9.webp" tvg-id="8a03c609bd184e905a811c207aca42b4",VTV9 HD
-#-----------------------VTVCap-------------------------------#
 https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
-https://thvip.site/vtvcab1/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
-https://thvip.site/vtvcab19/index.m3u8
+#-----------------------VTVCap-------------------------------#
 #EXTINF:0 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports HD (HD 8.5Mbps)
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí 
 https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab1/index.m3u8
@@ -314,115 +310,6 @@ https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="yenbai" group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/yen_bai.png",YTV HD | TH Yên Bái
 https://live.yenbaitv.org.vn/hls/livestream.m3u8
-#-------------------Địa phương HD-------------------#
-#EXTINF:-1 tvg-id="laocai" tvg-logo="https://lichphatsongtivi.com/storage/images/thumbnails/lich-phat-song-thlc.png" group-title="Địa phương (HD)",THLC _ TH Lào Cai (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.1.119:30120
-#EXTINF:-1 tvg-id="laichau" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_lai-chau_159849986283.png" group-title="Địa phương (HD)",LTV _ TH Lai Châu (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.2.36:30120
-#EXTINF:-1 tvg-id="dienbien" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dien-bien_156455538188.jpg" group-title="Địa phương (HD)",ĐTV HD _ TH Điện Biên (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.1.74:30120
-#EXTINF:-1 tvg-id="tuyenquang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tuyen-quang_145673727398.jpg" group-title="Địa phương (HD)",TTV HD _ TH Tuyên Quang (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.2.188:30120
-#EXTINF:-1 tvg-id="thainguyen" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thai-nguyen_156455574521.jpg" group-title="Địa phương (HD)",TN1 HD _ TH Thái Nguyên (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.2.179:30120
-#EXTINF:-1 tvg-id="hoabinh" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hoa-binh_145681701391.jpg" group-title="Địa phương (HD)",HBTV HD _ TH Hòa Bình (HD 4Mbps)
-http://tdgtech.net:3022/udp/225.1.2.168:30120
-#EXTINF:-1 tvg-id="phutho" tvg-logo="https://rsstv.gviet.vn/sctv/157/757/1567569793241.png" group-title="Địa phương (HD)",PTV HD _ TH Phú Thọ (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.2.165:30120
-#EXTINF:-1 tvg-id="bacgiang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bac-giang_15700007937.jpg" group-title="Địa phương (HD)",BGTV HD _ TH Bắc Giang (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.1.164:30120
-#EXTINF:-1 tvg-id="langson" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_lang-son_145880895824.jpg" group-title="Địa phương (HD)",LSTV HD _ TH Lạng Sơn (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.1.160:30120
-#EXTINF:-1 tvg-id="caobang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cao-bang_149283044994.jpg" group-title="Địa phương (HD)",CRTV HD _ TH Cao Bằng (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.1.102:30120
-#EXTINF:-1 tvg-id="backan" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/eb/TBK.png/revision/latest?cb=20210823053428&path-prefix=vi" group-title="Địa phương (HD)",TBK HD _ TH Bắc Kạn (HD 4Mbps)
-http://tdgtech.net:3022/udp/225.1.1.126:30120
-#EXTINF:-1 tvg-id="quangninh1" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-ninh-1_145672976024.jpg" group-title="Địa phương (HD)",QTV1 HD _ TH Quảng Ninh (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.2.181:30120
-#EXTINF:-1 tvg-id="bacninh" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bac-ninh_156455524327.jpg" group-title="Địa phương (HD)",BTV _ TH Bắc Ninh (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.1.40:30120
-#EXTINF:-1 tvg-id="hanoi1" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hanoitv-1_145672747757.jpg" group-title="Địa phương (HD)",H1 HD _ TH Hà Nội (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.2.186:30120
-#EXTINF:-1 tvg-id="hanoi2" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hanoitv-2_145672748742.jpg" group-title="Địa phương (HD)",H2 HD _ TH Hà Nội (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.1.125:30120
-#EXTINF:-1 tvg-id="haiphong" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hai-phong_156455547372.jpg" group-title="Địa phương (HD)",THP HD _ TH TP. Hải Phòng (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.1.44:30120
-#EXTINF:-1 tvg-id="haiphongplus" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7d/THP_Plus.png/revision/latest?cb=20210822012039&path-prefix=vi" group-title="Địa phương (HD)", THP+ HD - TH TP. Hải Phòng
-http://tdgtech.net:3022/udp/225.1.1.113:30120
-#EXTINF:-1 tvg-id="ninhbinh" tvg-logo="https://fptninhbinh.vn/wp-content/uploads/2018/02/%C4%90%C3%A0i-Ph%C3%A1t-thanh-v%C3%A0-Truy%E1%BB%81n-h%C3%ACnh-Ninh-B%C3%ACnh.jpg" group-title="Địa phương (HD)",NTV HD _ TH Ninh Bình (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.2.185:30120
-#EXTINF:-1 tvg-id="nghean" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_nghe-an_15426016909.jpg" group-title="Địa phương (HD)",NTV HD _ TH Nghệ An (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.2.183:30120
-#EXTINF:-1 tvg-id="hatinh" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/04/666883-hatinh.png" group-title="Địa phương (HD)",HTTV HD _ TH Hà Tĩnh (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.1.75:30120
-#EXTINF:-1 tvg-id="quangtri" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_qrtv.jpg" group-title="Địa phương (HD)",QRTV _ TH Quảng Trị (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.1.117:30120
-#EXTINF:-1 tvg-id="danang1" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-nang-1_156455534553.jpg" group-title="Địa phương (HD)",DaNangTV1 HD _ TH TP. Đà Nẵng (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.1.147:30120
-#EXTINF:-1 tvg-id="danang2" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-nang-2_156455535103.jpg" group-title="Địa phương (HD)",DaNangTV2 HD _ TH TP. Đà Nẵng (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.1.146:30120
-#EXTINF:-1 tvg-id="quangnam" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-nam_145880919575.jpg" group-title="Địa phương (HD)",QRT HD _ TH Quảng Nam (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.2.50:30120
-#EXTINF:-1 tvg-id="quangngai" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-ngai_146362646218.jpg" group-title="Địa phương (HD)",PTQ _ TH Quảng Ngãi (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.2.174:30120
-#EXTINF:-1 tvg-id="binhdinh" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-dinh_145672697062.jpg" group-title="Địa phương (HD)",BTV _ TH Bình Định (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.1.145:30120
-#EXTINF:-1 tvg-id="phuyen" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_phu-yen_151298361962.png" group-title="Địa phương (HD)",PTP _ TH Phú Yên (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.2.58:30120
-#EXTINF:-1 tvg-id="khanhhoa" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_khanh-hoa_145672791198.jpg" group-title="Địa phương (HD)",KTV HD _ TH Khánh Hòa (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.1.133:30120
-#EXTINF:-1 tvg-id="binhthuan" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-thuan_145880841033.jpg" group-title="Địa phương (HD)",BTV HD _ TH Bình Thuận (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.1.124:30120
-#EXTINF:-1 tvg-id="kontum" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_krt.jpg" group-title="Địa phương (HD)",KRT _ TH Kon Tum (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.1.36:30120
-#EXTINF:-1 tvg-id="gialai" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_gia-lai_145673242156.jpg" group-title="Địa phương (HD)",THGL _ TH Gia Lai (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.2.176:30120
-#EXTINF:-1 tvg-id="lamdong" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_lam-dong_145880770362.jpg" group-title="Địa phương (HD)",LTV HD _ TH Lâm Đồng (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.2.177:30120
-#EXTINF:-1 tvg-id="binhduong1" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-duong-1_162952993502.jpg" group-title="Địa phương (HD)",BTV1 HD _ TH Bình Dương (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.1.150:30120
-#EXTINF:-1 tvg-id="binhduong2" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-duong-2_162952993957.jpg" group-title="Địa phương (HD)",BTV2 _ TH Bình Dương (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.1.149:30120
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0e/BTV3_HD_logo_2019.png/revision/latest?cb=20210905034145&path-prefix=vi" group-title="Địa phương (HD)",BTV3 HD _ TH Bình Dương (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.2.22:30120
-#EXTINF:-1 tvg-id="binhduong4" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-duong-4_162953009383.jpg" group-title="Địa phương (HD)",BTV4 _ TH Bình Dương (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.1.30:30120
-#EXTINF:-1 tvg-id="anvienhd" tvg-logo="https://rsstv.gviet.vn/sctv/159/130/1581298782914.png" group-title="Địa phương (HD)",BTV9 An Viên HD (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.2.189:30120
-#EXTINF:-1 tvg-id="dongnai1" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dong-nai-1_156455544303.jpg" group-title="Địa phương (HD)",ĐNRTV1 HD _ TH Đồng Nai (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.1.152:30120
-#EXTINF:-1 tvg-id="dongnai2" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dong-nai-2_156455545067.jpg" group-title="Địa phương (HD)",ĐNRTV2 HD _ TH Đồng Nai (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.1.151:30120
-#EXTINF:-1 tvg-id="tayninh" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tay-ninh-hd_15323305071.jpg" group-title="Địa phương (HD)",TTV11 _ TH Tây Ninh (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.1.130:30120
-#EXTINF:-1 tvg-id="bariavungtau" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ba-ria-vung-tau_156455527078.jpg" group-title="Địa phương (HD)",BRT HD _ TH Bà Rịa Vũng Tàu (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.2.175:30120
-#EXTINF:-1 tvg-id="tiengiang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tien-giang_145734128144.jpg" group-title="Địa phương (HD)",THTG HD _ TH Tiền Giang (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.2.170:30120
-#EXTINF:-1 tvg-id="vinhlong1hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thvl1_156455587276.jpg" group-title="Địa phương (HD)",THVL1 HD _ TH Vĩnh Long (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.1.155:30120
-#EXTINF:-1 tvg-id="vinhlong2hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-2_15645558841.jpg" group-title="Địa phương (HD)",THVL2 HD _ TH Vĩnh Long (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.1.154:30120
-#EXTINF:-1 tvg-id="vinhlong3hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-3_156455588941.jpg" group-title="Địa phương (HD)",THVL3 HD _ TH Vĩnh Long (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.1.235:30120
-#EXTINF:-1 tvg-id="vinhlong4hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-4-hd_158382617523.png" group-title="Địa phương (HD)",THVL4 HD _ TH Vĩnh Long (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.2.25:30120
-#EXTINF:-1 tvg-id="vinhphuc" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-phuc_145880931198.jpg" group-title="Địa phương (HD)",VP _ TH Vĩnh Phúc (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.2.99:30120
-#EXTINF:-1 tvg-id="travinh" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tra-vinh_156455583815.jpg" group-title="Địa phương (HD)",THTV HD _ TH Trà Vinh (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.2.172:30120
-#EXTINF:-1 tvg-id="haugiang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hau-giang_145673319528.jpg" group-title="Địa phương (HD)",HGTV _ TH Hậu Giang (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.1.157:30120
-#EXTINF:-1 tvg-id="kiengiang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kien-giang_145880815375.jpg" group-title="Địa phương (HD)",KG1 _ TH Kiên Giang (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.2.182:30120
-#EXTINF:-1 tvg-id="baclieu" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bac-lieu_156455519874.jpg" group-title="Địa phương (HD)",BLTV HD _ TH Bạc Liêu (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.1.61:30120
-#EXTINF:-1 tvg-id="camau" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ca-mau_145880865141.jpg" group-title="Địa phương (HD)",CTV HD _ TH Cà Mau (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.1.104:30120
-#EXTINF:-1 tvg-id="cantho" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_can-tho_145672728114.jpg" group-title="Địa phương (HD)",THTPCT HD _ TH TP. Cần Thơ (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.1.132:30120
-#EXTINF:-1 tvg-id="yenbai" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yen-bai_145880728083.jpg" group-title="Địa phương (HD)",YTV _ TH Yên Bái (HD 8Mbps)
-http://tdgtech.net:3022/udp/225.1.1.39:30120
 #-------------------Quốc tế HD-------------------#
 #EXTINF:-1 group-title="🌏| World News"tvg-logo="https://i.imgur.com/BB93NQP.png",Al Jazeera
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
@@ -731,10 +618,7 @@ https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20221002/dark-towe
 https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220930/ava-2020-us-logof-1664493754/6bcd71a084a56740d6f63b5e2d3d03bb.smil/chunklist_b4392000.m3u8?cc
 #EXTINF:0 group-title="📹 Film" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/0c588abcf17cbc8c6ce00552379290dfb899a4533dcae2b26453b51386940e19._RI_.jpg",🇺🇸| Linh Hồn Trái Đất
 https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20221008/finalfantasythespiritswithin-2001-us-logof/0bb18e96190605008f78b4275101b6cf.smil/chunklist_b4392000.m3u8?cc
-#KODIPROP:inputstream.adaptive.license_key=https:///dl.dropboxusercontent.com/s/ij2f8x7i3lbl2fa///   																						 ㅤ
-#EXTINF:-1 tvg-id="ksport2hd" group-title="	" tvg-logo="https://i.ibb.co/9TVkkNn/2.webp?88e391e2e1ab45a8730b3eabb4kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=",🇰+ 𝗦𝗣𝗧𝟮
-#KODIPROP:inputstream.adaptive.license_type=clearkey #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Edge/107.0.1418.24 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https:///gg.gg/spt2cc?cc=https:///dl.dropboxusercontent.com/s/adsn0zxtpid25vq//   																						 								
+#KODIPROP:inputstream.adaptive.license_key=https:///dl.dropboxusercontent.com/s/ij2f8x7i3lbl2fa///   																						 ㅤ  																						 								
 #EXTINF:0 group-title="📹 Film" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/08/25/thu-cung-tang-hinh-fpt-play-1661411928474_Landscape.jpg",🇺🇸| Thú Cưng Tàng Hình
 https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220907/abulele-2015-il-1080p-logof-v2-1662544898/ce140d669f54e6a032ad152d252c4eea.smil/chunklist_b4392000.m3u8?cc
 #EXTINF:0 group-title="📹 Film" tvg-logo="https://static2.vieon.vn/vieplay-image/title_card_dark/2020/12/24/a8rso01w_title-kynguyenelysium-nen-den_815_255.png",🇺🇸| Kỷ Nguyên Elysium
@@ -793,11 +677,7 @@ https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220718/tombraide
 http://vod-zlr2.tv360.vn/video1/2022/06/29/14/ab87e418/ab87e418-85de-4f7f-8a80-a5d06fd286d9_5_.m3u8?cc
 #EXTINF:0 group-title="📹 Film" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/07/01/14/cfb63a86/cfb63a86-bbe6-4781-968b-41cb9956608c_640_360.jpg",🇺🇸| Nữ Sinh Bắt Ma
 http://vod-zlr2.tv360.vn/video1/2022/07/01/14/7d4e66fd/7d4e66fd-235b-43e3-85e4-7c0328ace6c3_5_.m3u8?cc
-#KODIPROP:inputstream.adaptive.license_key=https:///dl.dropboxusercontent.com/s/onlc3vcoks14444///   																						 ㅤ
-#EXTINF:-1 tvg-id="kcinehd" group-title="	" tvg-logo="https://i.ibb.co/h8FLFc7/3.webp?88e391e2e1ab45a8730b3eabb4kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=",🇰+ 𝗖𝗜𝗡𝗘
-#KODIPROP:inputstream.adaptive.license_type=clearkey #EXTVLCOPT:http-user-agent=Edge/107.0.1418.24 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#https://live-on-mobi.gviet.vn/manifest/k-plus-1/master.mpd
-https:///dl.dropboxusercontent.com/s/mxz3tp6p8o4k6ue///   																						 ㅤ
+#KODIPROP:inputstream.adaptive.license_key=https:///dl.dropboxusercontent.com/s/onlc3vcoks14444///   																						 ㅤ   																						 ㅤ
 #EXTINF:0 group-title="📹 Film" tvg-logo="https://static.fptplay.net/static/img/share/video/28_10_2021/4cljqrobgwpeilk8dgmsxhhw9wa28-10-2021_03g46-33.jpg",🇺🇸| Vũ Điệu Trai Nhảy
 https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20211027/magicmikexxl_2015_us_1080p_sub_logofptplay/7ad6dce27eef884373dce7dce683a01f.smil/chunklist_b4628000.m3u8?cc
 #EXTINF:0 group-title="📹 Film" tvg-logo="https://static.fptplay.net/static/img/share/video/20_02_2022/boonethebountyhunter_2017_us_bghd20-02-2022_04g44-00.jpg",🇺🇸| Săn Tiền Thưởng
@@ -832,11 +712,7 @@ https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20201004/revivre_2
 https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220131/johnwickchapter3parabellum_2019_us_1080p_sub_logofptplay/5ac608a8e3d6c28e1637c1616f72785a.smil/chunklist_b4628000.m3u8
 #EXTINF:0 group-title="📹 Film" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2022/03/03/d2b46ogj_1920x1080-johnwick2_1267_712.webp",🇺🇸| Sát Thủ John Wick 2
 https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220226/johnwick2_2017_us_1080p_sub_logofptplay/f2deb070f27be0d9985f5c84adada8b0.smil/chunklist_b4628000.m3u8
-#KODIPROP:inputstream.adaptive.license_key=https:///dl.dropboxusercontent.com/s/iffust4u8y49rcr///   																						 ㅤ
-#EXTINF:-1 tvg-id="klifehd" group-title="	" tvg-logo="https://i.ibb.co/MS363r3/4.webp?88e391e2e1ab45a8730b3eabb4kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=",🇰+ 𝗟𝗜𝗙𝗘
-#KODIPROP:inputstream.adaptive.license_type=clearkey #EXTVLCOPT:http-user-agent=Edge/107.0.1418.24 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#https://live-on-mobi.gviet.vn/manifest/k-plus-ns/master.mpd
-https:///dl.dropboxusercontent.com/s/jcj23fwgsbiw0lm///   																						 ㅤ
+#KODIPROP:inputstream.adaptive.license_key=https:///dl.dropboxusercontent.com/s/iffust4u8y49rcr///   																						 ㅤ  																						 ㅤ
 #EXTINF:0 group-title="📹 Film" tvg-logo="https://static.fptplay.net/static/img/share/video/28_02_2022/johnwick_bghd28-02-2022_07g30-27.jpg",🇺🇸| Sát Thủ John Wick
 https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220226/johnwick_2014_us_1080p_sub_logofptplay/cbeb166d248cc24fea9165b202c15e3e.smil/chunklist_b4628000.m3u8?cc
 #EXTINF:0 group-title="📹 Film" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/01/14/16/c2b1a247/c2b1a247-f57b-4976-bd4c-b735894b409c_640_360.jpg",🇺🇸| Thợ Săn Phù Thủy
@@ -877,10 +753,7 @@ http://vod-zlr2.tv360.vn/video1/2021/05/19/13/f51ae473/f51ae473-c914-46fc-a480-8
 http://vod-zlr2.tv360.vn/video1/2022/01/14/16/1652e23e/1652e23e-6d46-4cbd-9120-2e55aefce52f_5_.m3u8?cc
 #EXTINF:0 group-title="📹 Film" tvg-logo="https://i.ytimg.com/vi/jG6WV-jjG04/maxresdefault.jpg",🇺🇸| Mật Mã Cướp Biển: Cuộc Phiêu Lưu Của Mickey Matson
 https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220502/piratescodetheadventuresofmickeymatson_2014_us_1080p_sub_logofptplay/3e3692480a695084d91a1eadd5861fd9.smil/chunklist_b4628000.m3u8?cc
-#KODIPROP:inputstream.adaptive.license_key=https:///dl.dropboxusercontent.com/s/7jnyjct2nej9pfl///   																						 ㅤ
-#EXTINF:-1 tvg-id="kkidshd" group-title="	" tvg-logo="https://i.ibb.co/gP7GDwp/5.webp?88e391e2e1ab45a8730b3eabb4kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=",🇰+ 𝗞𝗜𝗗𝗦
-#KODIPROP:inputstream.adaptive.license_type=clearkey #EXTVLCOPT:http-user-agent=Edge/107.0.1418.24 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https:///gg.gg/kid5cc?cc=https:///dl.dropboxusercontent.com/s/0481ns7heu1qv2i//   																						 ㅤ
+#KODIPROP:inputstream.adaptive.license_key=https:///dl.dropboxusercontent.com/s/7jnyjct2nej9pfl///   																						 ㅤ  																						 ㅤ
 #EXTINF:0 group-title="📹 Film" tvg-logo="https://static.fptplay.net/static/img/share/video/18_03_2022/nerve_bghd18-03-2022_17g33-53.jpg",🇺🇸| Trò Chơi Đoạt Mạng
 https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220319/nerve_2016_us_1080p_sub_logofptplay/a2c4c096adb61a735ef1986208867152.smil/chunklist_b4628000.m3u8?cc
 #EXTINF:0 group-title="📹 Film" tvg-logo="https://static.fptplay.net/static/img/share/video/26_10_2021/nszivhkmmtr0df0l60nfkk6mxla26-10-2021_03g02-41.jpg",🇺🇸| Ma Trận 3: Cuộc Cách Mạng
@@ -908,10 +781,7 @@ https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210929/spiderman
 #EXTINF:0 group-title="📹 Film" tvg-logo="https://static.fptplay.net/static/img/share/video/25_09_2021/ng6ssb3jhbcpktwbpdsrwuyk8cq25-09-2021_06g30-00.jpg",🇺🇸| Người Nhện: Xa Nhà
 https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210921/spidermanfarfromhomeavod_2019_us_1080p_sub_logofptplay/70aefde5ebfe427c4deb0a31e1c4107a.smil/chunklist_b4628000.m3u8?cc
 #KODIPROP:inputstream.adaptive.license_type=clearkey #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https:///dl.dropboxusercontent.com/s/fvbpgw4pgb1ahis/// 										ㅤ          
-#EXTINF:-1 tvg-id="klive1" group-title="	" tvg-logo="https://i.ibb.co/pxk6q2z/ccKlive1.webp?88e391e2e1ab45a8730b3eabb4kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=",𝗟𝗜𝗩𝗘𝟭
-#EXTVLCOPT:http-user-agent=Edge/107.0.1418.24 Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https:///vstv.broadpeak-aas.com/bpk-tv/prod_klive1/default/i.mpd?https:///dl.dropboxusercontent.com/s/3aonoouv7ijszvg/																						 ㅤ
+#KODIPROP:inputstream.adaptive.license_key=https:///dl.dropboxusercontent.com/s/fvbpgw4pgb1ahis/// 										ㅤ          																				 ㅤ
 #EXTINF:0 group-title="📹 Film" tvg-logo="https://static.fptplay.net/static/img/share/video/18_03_2022/mechanic2resurrection_bghd18-03-2022_16g41-21.jpg",🇺🇸| Sát Thủ Thợ Máy 2: Ngày Tái Xuất
 https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220319/mechanicresurrection_2016_us_1080p_sub_logofptplay_v2/bf902bcf699b049bf9334b8289e4d74b.smil/chunklist_b4628000.m3u8?cc
 #EXTINF:0 group-title="📹 Film" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/01/05/7qg7vym0_3_horizontal-thumbnail1a7c25c9db81ccb72c004dc8c50a0c58_1267_712.webp",🇺🇸| Sát Thủ Thợ Máy 1
@@ -925,10 +795,7 @@ https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210928/charliesa
 #EXTINF:0 group-title="📹 Film" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2020/12/26/ndex5ga2_1920x1080-nhungthienthancuacharlie.jpg",🇺🇸| Những Thiên Thần Của Charlie 1
 https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210928/charliesangels_2000_us_1080p_sub_logofptplay/c9f11cd8cf42c46b414a49e435ad64e0.smil/chunklist_b4628000.m3u8?cc
 #KODIPROP:inputstream.adaptive.license_type=clearkey #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https:///dl.dropboxusercontent.com/s/8wpo4cczlgpalgz/// 										ㅤ          
-#EXTINF:-1 tvg-id="klive2" group-title="	" tvg-logo="https://i.ibb.co/xmSJHxt/ccKlive2.webp?88e391e2e1ab45a8730b3eabb4kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=",𝗟𝗜𝗩𝗘𝟮
-#EXTVLCOPT:http-user-agent=Edge/107.0.1418.24 Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https:///vstv.broadpeak-aas.com/bpk-tv/prod_klive2/default/i.mpd?https:///dl.dropboxusercontent.com/s/3aonoouv7ijszvg/																						 ㅤ
+#KODIPROP:inputstream.adaptive.license_key=https:///dl.dropboxusercontent.com/s/8wpo4cczlgpalgz/// 										ㅤ          																						 ㅤ
 #EXTINF:0 group-title="📹 Film" tvg-logo="http://img-zlr1.tv360.vn/image1/2019/11/01/14/607ac06b/607ac06b-7e45-4a8a-9ef5-0dcaed53ec82_640_360.jpg",🇺🇸| Ma Tốc Độ 2: Linh Hồn Báo Thù
 http://vod-zlr2.tv360.vn/video1/2019/11/01/14/295fa317/295fa317-30ca-4917-bf14-5fb6bcb6b52d_5_.m3u8?cc
 #EXTINF:0 group-title="📹 Film" tvg-logo="https://static.fptplay.net/static/img/share/video/09_10_2021/ghost-rider-5229257f4ea8a09-10-2021_19g56-52.jpg",🇺🇸| Ma Tốc Độ 1
@@ -959,10 +826,7 @@ http://vod-zlr2.tv360.vn/video1/2021/07/19/09/18c3927c/18c3927c-44bc-4d70-94ab-2
 https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220412/aprilsnow_2005_kr_1080p_sub_logofptplay/e09d0fa33016b2855b758436bb003cdf.smil/chunklist_b4628000.m3u8?cc
 #EXTINF:0 group-title="📹 Film" tvg-logo="https://static.fptplay.net/static/img/share/video/01_04_2022/beastsclawingatstraws_2020_kr_bghd01-04-2022_17g13-37.jpg",🇰🇷| Chó Săn Tiền
 https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220403/beastsclawingatstraws_2020_kr_1080p_sub_logofptplay/98d3f272b1429d484e53f7cd2486b111.smil/chunklist_b4628000.m3u8?cc
-#KODIPROP:inputstream.adaptive.license_key=https:///dl.dropboxusercontent.com/s/i7fy551hsq9ygc9/// 										ㅤ          
-#EXTINF:-1 tvg-id="klive3" group-title="	" tvg-logo="https://i.ibb.co/LYT8VGY/ccKlive3.webp?88e391e2e1ab45a8730b3eabb4kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=",𝗟𝗜𝗩𝗘𝟯
-#KODIPROP:inputstream.adaptive.license_type=clearkey #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https:///vstv.broadpeak-aas.com/bpk-tv/prod_klive3/default/i.mpd?https:///dl.dropboxusercontent.com/s/3aonoouv7ijszvg/																						 ㅤ
+#KODIPROP:inputstream.adaptive.license_key=https:///dl.dropboxusercontent.com/s/i7fy551hsq9ygc9/// 										ㅤ          																					 ㅤ
 #EXTINF:0 group-title="📹 Film" tvg-logo="https://static.fptplay.net/static/img/share/video/26_03_2020/untitled-126-03-2020_13g40-02.jpg",🇨🇳| Dấu Chân Băng Thần
 https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200326/dau-chan-bang-than-logo/0456192a0d6e47301c6b849b5ac48630.smil/chunklist_b3992000.m3u8?cc
 #EXTINF:0 group-title="📹 Film" tvg-logo="https://static.fptplay.net/static/img/share/video/08_04_2022/handrolledcigarette_2020_hk_bghd08-04-2022_17g12-03.jpg",🇨🇳| Thuốc Lá Cuộn Tay
