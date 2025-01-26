@@ -25,8 +25,8 @@ https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist.m3u8
 #-----------------------K+-------------------------------#
 #EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png", K+ CINE
 hhttps://509942876.r.vtvcdn.com/onplus/K_LIFE_7777/m20_index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/erWqYxh.png" group-title="K+",K+ KIDS
-https://z215ymcm4tliv.vcdn.cloud/s4/hls/KPlusKid/index.m3u8
+#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ ACTION 
+https://509942876.r.vtvcdn.com/onplus/K_LIFE_7777/m20_index.m3u8
 #-----------------------VTVCap-------------------------------#
 #EXTINF:0 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports HD (HD 8.5Mbps)
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí 
