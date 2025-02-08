@@ -2,10 +2,10 @@
 #-----------------------VTV-------------------------------#
 #EXTINF:1 tvg-id="vtv1hd" tvg-name="VTV1 HD" group-title="VTV" tvg-logo="https://i.ibb.co/y8s34Vs/ccvtv1.webp",VTV1 HD
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
-https://z215ymcm4tliv.vcdn.cloud/s8/hls/vtv2/index.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
-https://z215ymcm4tliv.vcdn.cloud/s8/hls/vtv3/index.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.ibb.co/ZHCQSWY/ccvtv2.webp" tvg-id="vtv2hd-EPG" tvg-name="vtv2hd-id",VTV2 HD
+https://live.fptplay53.net/fnxhd1/vtv2_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.ibb.co/Y2WSTkx/ccvtv3.webp" tvg-id="ca0b8fe314bfa3c1e8f7bce244d2af34",VTV3 HD
+https://live.fptplay53.net/fnxhd1/vtv3hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png" tvg-id="80e7c76bee49cba58fabe6ef84acce0d",VTV4 HD
 https://live.fptplay53.net/fnxhd1/vtv4_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png" tvg-id="6c6c043b6a973a5178240d491f38b3d0",VTV5 HD
