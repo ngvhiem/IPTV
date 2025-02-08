@@ -252,7 +252,7 @@ http://dinhdong.ddns.net:13579/udp/225.1.1.236:30120
 http://dinhdong.ddns.net:13579/udp/225.1.1.200:30120
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV (HD 8Mbps)
 http://dinhdong.ddns.net:13579/udp/225.1.1.139:30120
-#EXTINF:0 tvg-id="arirang" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/DZNTBjC.png",Arirang
+#EXTINF:0 tvg-id="arirang" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/DZNTBjC.png",Arirang
 http://dinhdong.ddns.net:13579/udp/225.1.1.201:30120
 #-------------------World News-------------------#
 #EXTINF:-1 group-title="World News"tvg-logo="https://i.imgur.com/BB93NQP.png",Al Jazeera
