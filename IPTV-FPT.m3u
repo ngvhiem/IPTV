@@ -1,4 +1,17 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+#-----------------------Truyền Hình Thử Nghiệm-------------------------------#
+K+ Sport 1 Link Phụ" tvg-id="ksport1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/99/Kplus_Sport_1_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042538&path-prefix=vi" group-title="Truyền Hình Thử Nghiệm",K+ Sport 1 | Bigboss
+http://vuikhoetv.online:80/live/beo123/tr1234/7139.ts
+#EXTINF:-1 tvg-name="K+ Kids" tvg-id="kkidshd" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e8/Kplus_Kids_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042543&path-prefix=vi" group-title="Truyền Hình Thử Nghiệm",K+ Kids
+http://vuikhoetv.online:80/live/beo123/tr1234/7143.ts
+#EXTINF:-1 tvg-name="K+ Cine" tvg-id="kcinehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d8/Kplus_Cine_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042536&path-prefix=vi" group-title="Truyền Hình Thử Nghiệm",K+ Cine
+http://vuikhoetv.online:80/live/beo123/tr1234/7136.ts
+#EXTINF:-1 tvg-name="K+ Action" tvg-id="kaction" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/Kplus_Action_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042537&path-prefix=vi" group-title="Truyền Hình Thử Nghiệm",K+ Action
+http://vuikhoetv.online:80/live/beo123/tr1234/7137.ts
+#EXTINF:-1 tvg-name="K+ Sport 1 | LINKPRO" tvg-id="ksport1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/99/Kplus_Sport_1_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042538&path-prefix=vi" group-title="Truyền Hình Thử Nghiệm",K+ Sport 1 | Faster T7 CN
+http://vuikhoetv.online:80/live/beo123/tr1234/7147.ts
+#EXTINF:-1 tvg-name="K+ Sport 2 | LINKPRO" tvg-id="ksport2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/Kplus_Sport_2_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042539&path-prefix=vi" group-title="Truyền Hình Thử Nghiệm",K+ Sport 2 | Faster T7 CN
+http://vuikhoetv.online:80/live/beo123/tr1234/7148.ts
 #-----------------------Truyền Hình-------------------------------#
 #EXTINF:1 tvg-id="vtv1hd" tvg-name="VTV1 HD" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/y8s34Vs/ccvtv1.webp",VTV1 HD
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
