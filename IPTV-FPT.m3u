@@ -70,7 +70,7 @@ https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://oipf0znpmnliv.vcdn.cloud/hls/thangiang/index.m3u8
 #EXTINF:-1 tvg-id="baclieu" group-title="Truyền Hình" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/bac_lieu.png",BLTV HD | TH Bạc Liêu
-https://tv.thbl.vn/live/tv/tv.m3u8
+https://xem.TruyenHinh.Click/CoBan/126/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="bentre" group-title="Truyền Hình" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/ben_tre.png",THBT HD | TH Bến Tre
 https://1011154949.vnns.net/CDN-FPT02/BENTRE-SD-ABR/playlist.m3u8
 #EXTINF:-1 tvg-id="binhduong1" group-title="Truyền Hình" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/binh_duong.png",BTV1 HD | TH Bình Dương
@@ -88,13 +88,13 @@ https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/playlist.m3u8
 #EXTINF:-1 tvg-id="camau" group-title="Truyền Hình" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/ca_mau.png",CTV HD | TH Cà Mau
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-id="cantho" group-title="Truyền Hình" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/can_tho.png",THTPCT HD | TH Cần Thơ
-https://live.canthotv.vn/live/tv_web/playlist.m3u8
+https://xem.TruyenHinh.Click/CoBan/134/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="dongnai1" group-title="Truyền Hình" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/dongnai1.png",ĐNRTV1 HD | TH Đồng Nai
 http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="dongnai2" group-title="Truyền Hình" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/dongnai2.png",ĐNRTV2 HD | TH Đồng Nai
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="dongthap" group-title="Truyền Hình" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/dong_thap.png",THĐT1 HD | TH Đồng Tháp
-https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
+https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="" group-title="Truyền Hình" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/mien-tay.png",THĐT2 HD | TH Đồng Tháp
 https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
 #EXTINF:-1 tvg-id="haugiang" group-title="Truyền Hình" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/hau_giang.png",HGTV HD | TH Hậu Giang
