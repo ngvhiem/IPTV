@@ -78,8 +78,6 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Music_HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Football_HD
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab17%20-%20ON%20Trending%20TV.png" group-title="Truyền Hình",ON Trending TV
 https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Trending_TV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Sports%20News%20HD.png" group-title="Truyền Hình",ON Sports News
-https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Sports_News
 #-------------------Địa phương-------------------#
 #EXTINF:-1 tvg-id="hanoi1" group-title="Truyền Hình" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/hanoi1.png",HanoiTV1 | TH Hà Nội
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
