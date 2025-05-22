@@ -50,34 +50,6 @@ https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/vhLGXcK/cchtvcplus.webp" tvg-id="fd51b6c6836ec943e7ad21f0036f879e",HTVC+ HD
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab1%20-%20ON%20Vie%20GI%E1%BA%A2I%20TR%C3%8D%20HD.png" group-title="Truyền Hình",ON Vie GIẢI TRÍ HD
-https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Vie_GIAI_TRI_HD
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab2%20-%20ON%20Phim%20Vi%E1%BB%87t%20HD.png" group-title="Truyền Hình",ON Phim Việt HD
-https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Phim_Viet_HD
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Sports%20HD.png" group-title="Truyền Hình",ON Sports HD
-https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Sports_HD
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab4%20-%20ON%20Movies%20HD.png" group-title="Truyền Hình",ON Movies HD
-https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Movies_HD
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab5%20-%20ON%20E%20Channel%20HD.png" group-title="Truyền Hình",ON E Channel HD
-https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_E_Channel_HD
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/On%20Sports%2B%20HD.png" group-title="Truyền Hình",On Sports+ HD
-https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Sports_Plus_HD
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab10%20-%20ON%20Cine%20HD.png" group-title="Truyền Hình",ON Cine HD
-https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Cine_HD
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab8%20-%20ON%20BiBi%20HD.png" group-title="Truyền Hình",ON BiBi HD
-https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_BiBi_HD
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab9%20-%20ON%20Info%20TV%20HD.png" group-title="Truyền Hình",ON Info TV HD
-https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Info_TV_HD
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab7%20-%20ON%20O2TV%20HD.png" group-title="Truyền Hình",ON O2TV HD
-https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_O2TV_HD
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab12%20-%20ON%20Style%20TV%20HD.png" group-title="Truyền Hình",ON Style TV HD
-https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Style_TV_HD
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab15%20-%20ON%20Music%20HD.png" group-title="Truyền Hình",ON Music HD
-https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Music_HD
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Football%20HD.png" group-title="Truyền Hình",ON Football HD
-https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Football_HD
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab17%20-%20ON%20Trending%20TV.png" group-title="Truyền Hình",ON Trending TV
-https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Trending_TV
 #-------------------Địa phương-------------------#
 #EXTINF:-1 tvg-id="hanoi1" group-title="Truyền Hình" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/hanoi1.png",HanoiTV1 | TH Hà Nội
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
