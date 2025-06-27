@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 #-----------------------Truyền Hình-------------------------------#
+https://streamable.com/4xohiz
 #EXTINF:1 tvg-id="vtv1hd" tvg-name="VTV1 HD" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/y8s34Vs/ccvtv1.webp",VTV1 HD
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/ZHCQSWY/ccvtv2.webp" tvg-id="vtv2hd-EPG" tvg-name="vtv2hd-id",VTV2 HD
