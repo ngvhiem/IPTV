@@ -343,32 +343,6 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951197/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Today_logo.svg/800px-Today_logo.svg.png",Today All Day
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991245/hls/master.m3u8?ads.xumo_channelId=99991245
 
-#-------------------Test-------------------#
-#EXTINF:0 tvg-id="test1" group-title="Test" tvg-logo="https://i.imgur.com/7HD60aD.png",TVRI Nasional
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_2500000=10004-mp4a_96000_eng=20000.m3u8
-#EXTINF:0 tvg-id="test2" group-title="Test" tvg-logo="https://i.imgur.com/hS4bgHe.png",TVRI Sport HD
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-mp4a_96000_eng=20003.m3u8
-#EXTINF:0 tvg-id="test3" group-title="Test" tvg-logo="https://i.imgur.com/5cwYPTt.png",TVRI World (English Channel)
-https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_2500000=10004-mp4a_96000_eng=20003.m3u8
-#EXTINF:0 tvg-id="test4" group-title="Test" tvg-logo="https://i.imgur.com/VvfiwPJ.png",SEA Today
-https://hls.seatoday.com/hls_hd/seatoday.m3u8
-#EXTINF:0 tvg-id="test5" group-title="Test" tvg-logo="https://i.imgur.com/LPdjM0z.png",CNBC
-https://nonton.wap.sh/id/017.m3u8
-#EXTINF:0 tvg-id="test6" group-title="Test" tvg-logo="https://i.imgur.com/cnAht7i.png",Bollywood-Classic-OTT
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-#EXTINF:0 tvg-id="test7" group-title="Test" tvg-logo="https://i.imgur.com/PaVbyxg.png",CNN INDONESIA
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="test8" group-title="Test" tvg-logo="https://i.imgur.com/phXvB0t.png",Dunia Sinema
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-#EXTINF:0 tvg-id="test9" group-title="Test" tvg-logo="https://i.imgur.com/rltq2Dy.png",Insight TV
-https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="test10" group-title="Test" tvg-logo="https://i.imgur.com/WUUXS6T.png",Love Nature
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:0 tvg-id="test11" group-title="Test" tvg-logo="https://i.imgur.com/Y5FUbsY.png",MovieSphere 2
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="test12" group-title="Test" tvg-logo="https://i.imgur.com/4k57giG.png",Trans 7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
-
 #----------*-Thể Thao-*----------#
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://images.ctfassets.net/9wbsp34au6cz/3MahTdkrffTFVnuawblwdI/ea27b13f6bd84eaab03f5f298bce672d/RBTV_Logo_single_pix_hor_RGB.png",Redbull TV
 https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/vn/en/playlist.m3u8
