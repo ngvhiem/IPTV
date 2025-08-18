@@ -327,13 +327,6 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_c
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/MMAJunkie_Logo.png",MMA Junkie
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
-#----------*-K+-*----------#
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad_640_360.png", K+CINE HD
-https://truyenhinh.click/kcinehd
-#EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/16/1704275031605/a72d5eab8255_640_360.png", K+ACTION HD
-https://truyenhinh.click/kactionhd
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/10/22/18/1666437081424/cbd3f3af84ba_640_360.png", K+KIDS HD
-https://truyenhinh.click/kkidshd
 
 
 
@@ -772,6 +765,7 @@ https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210930/meninblac
 https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210926/meninblack2_2002_us_1080p_sub_logofptplay/14093f9a81beb65dabb0f1b0b8958c12.smil/chunklist_b2828000.m3u8
 #EXTINF:-1 group-title="Phim lẻ" tvg-logo="https://static.fptplay.net/static/img/share/video/27_09_2021/dhfrczmvawanvzsia7hurwstvq727-09-2021_02g32-53.jpg?w=282&mode=scale",Đặc Vụ Áo Đen 3
 https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210926/meninblack3_2012_us_1080p_sub_logofptplay/22aa7ff123928ae96b5a2cca5a5daeed.smil/chunklist_b2828000.m3u8
+
 
 
 
