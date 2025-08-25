@@ -141,7 +141,7 @@ https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/playlist.m3u8
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=high&pkg=pkg11.hni
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/JAglyuT.png",Hưng Yên
 https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/playlist.m3u8
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/n02cvKQ.png"Lai Châu
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/n02cvKQ.png",Lai Châu
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv361&q=high&pkg=pkg11.hni
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/yxz02UD.png",Lạng Sơn
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8
@@ -1877,6 +1877,7 @@ https://www.googleapis.com/drive/v3/files/1hD4pODIRpYTWUTxsLlhPelle72_x3Khb?alt=
 https://www.googleapis.com/drive/v3/files/1JwoPIJ1JoPmBvR8gMe09RXDBhpWbPUpr?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
 #EXTINF:-1 tvg-logo="https://nextphim.com/wp-content/uploads/2018/07/Terminator-6-How-Story-Will-Work-Arnold-Schwarzenegger.jpg" group-title="Phim lẻ 2",P1: Kẻ hủy diệt (1984)
 https://www.googleapis.com/drive/v3/files/1q7iTtyq0hanVJDlOldHhRNwSJiXvfOcz?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+
 
 
 
