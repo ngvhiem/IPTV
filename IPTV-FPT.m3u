@@ -62,6 +62,8 @@ https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzch2/vinhlong3_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/JWDsJxB.png",Vĩnh Long 4
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="http://static3.thvli.vn/assets/thumbnail/2025/08/28/gb1vfh5n_buttonchanels_thvl_2025_sua-1.png",Vĩnh Long 5
+https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0fGI8cJ.png",Cần Thơ 1
 https://live.canthotv.vn/live/tv/playlist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0fGI8cJ.png",Cần Thơ 2
@@ -86,11 +88,9 @@ https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist.m3u8
 http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/8qlDA5N.png",Đồng Nai 2
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/TqAz7ET.png",Đồng Tháp
-http://123.25.238.45:1935/live/thtg/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/TqAz7ET.png",Đồng Tháp 1
 https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/PfETBEp.png",TH Đồng Tháp 2
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/PfETBEp.png",Đồng Tháp 2
 https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/iaexSxL.png",Lâm Đồng 1
 http://118.107.85.5:1935/live/smil:LTV.smil/chunklist.m3u8
@@ -1877,6 +1877,7 @@ https://www.googleapis.com/drive/v3/files/1hD4pODIRpYTWUTxsLlhPelle72_x3Khb?alt=
 https://www.googleapis.com/drive/v3/files/1JwoPIJ1JoPmBvR8gMe09RXDBhpWbPUpr?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
 #EXTINF:-1 tvg-logo="https://nextphim.com/wp-content/uploads/2018/07/Terminator-6-How-Story-Will-Work-Arnold-Schwarzenegger.jpg" group-title="Phim lẻ 2",P1: Kẻ hủy diệt (1984)
 https://www.googleapis.com/drive/v3/files/1q7iTtyq0hanVJDlOldHhRNwSJiXvfOcz?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+
 
 
 
