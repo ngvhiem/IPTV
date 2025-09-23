@@ -51,8 +51,6 @@ https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/vhLGXcK/cchtvcplus.webp" tvg-id="fd51b6c6836ec943e7ad21f0036f879e",HTVC+
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV%20Phim%20T%E1%BB%95ng%20H%E1%BB%A3p%20HD.png" group-title="Uncategorized",SCTV PHIM TỔNG HỢP
-https://HaNoiIPTV.short.gy/HaNoiIPTV-SCTV_Phim_Tong_Hop_HD_du_phong
 #EXTINF:-1 tvg-id="sctv1hd" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/yBnxfhH/sctv1-hd.png",SCTV1
 https://liveh12.seenow.vn/hls/SCTV1/index.m3u8
 #EXTINF:-1 tvg-id="sctv2hd" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/VqNpntW/sctv2-hd.png",SCTV2
@@ -63,22 +61,6 @@ https://liveh12.seenow.vn/hls/SCTV3/index.m3u8
 https://liveh12.seenow.vn/hls/SCTV4/index.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/HpgQgB5/logo26072108-sctv6-hd.png",SCTV6
 http://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="sctv7hd" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/q52fk4p/logo26072108-sctv7-hd.png",SCTV7
-https://liveh12.seenow.vn/hls/SCTV7/index.m3u8
-#EXTINF:-1 tvg-id="sctv8hd" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/1Z8k49W/logo26072108-sctv8.png",SCTV8
-https://liveh12.seenow.vn/hls/SCTV8/index.m3u8
-#EXTINF:-1 tvg-id="sctv11hd" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/88mFbmH/logo26072108-sctv11-hd.png",SCTV11
-https://liveh12.seenow.vn/hls/SCTV11/index.m3u8
-#EXTINF:-1 tvg-id="sctv12hd" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/hxNHc7x/logo26072108-sctv12-hd.png",SCTV12
-https://liveh12.seenow.vn/hls/SCTV12/index.m3u8
-#EXTINF:-1 tvg-id="sctv13hd" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/3pQsyPf/logo26072108-sctv13-hd.png",SCTV13
-https://liveh12.seenow.vn/hls/SCTV13/index.m3u8
-#EXTINF:-1 tvg-id="sctv14hd" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/wLKj69Q/logo26072108-sctv14-hd.png",SCTV14
-https://liveh12.seenow.vn/hls/SCTV14/index.m3u8
-#EXTINF:-1 tvg-id="sctv18hd" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/LY0CW6H/logo26072108-sctv18-hd.png",SCTV18
-https://liveh12.seenow.vn/hls/SCTV18/index.m3u8
-#EXTINF:-1 tvg-id="sctvhdpth" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/G2XQD3X/logo26072108-sctv-phim-THHD.png",SCTV Phim tổng hợp
-https://liveh12.seenow.vn/hls/SCTVPHIM/index.m3u8
 #EXTINF:-1 tvg-id="sctv4k" group-title="Truyền Hình" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV4K.webp", SCTV4K 
 https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="Truyền Hình" tvg-logo="https://i.imgur.com/7GSKm46.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=197&time=${start}&offset=${duration}",ON Vie Giải Trí
@@ -1975,6 +1957,7 @@ https://www.googleapis.com/drive/v3/files/1hD4pODIRpYTWUTxsLlhPelle72_x3Khb?alt=
 https://www.googleapis.com/drive/v3/files/1JwoPIJ1JoPmBvR8gMe09RXDBhpWbPUpr?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
 #EXTINF:-1 tvg-logo="https://nextphim.com/wp-content/uploads/2018/07/Terminator-6-How-Story-Will-Work-Arnold-Schwarzenegger.jpg" group-title="Phim lẻ 2",P1: Kẻ hủy diệt (1984)
 https://www.googleapis.com/drive/v3/files/1q7iTtyq0hanVJDlOldHhRNwSJiXvfOcz?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+
 
 
 
