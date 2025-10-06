@@ -433,6 +433,19 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_c
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/MMAJunkie_Logo.png",MMA Junkie
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
+***Test***
+#EXTINF:-1 tvg-id="axn" tvg-logo="https://i.imgur.com/Rwm7Lod.png" group-title="📦| Phim",AXN (29.3s)
+https://s7772.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="hbo" tvg-logo="https://i.imgur.com/7nIUtCU.png" group-title="📦| Phim",HBO (29.7s)
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="warnertv" tvg-logo="https://i.imgur.com/B9AVT2i.png" group-title="📦| Phim",Warner TV (30.4s)
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="cinemax" tvg-logo="https://i.imgur.com/NzROY7r.png" group-title="📦| Phim",Cinemax (30.6s)
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
+
 
 
 
