@@ -55,7 +55,7 @@ https://liveh12.seenow.vn/hls/SCTV1/index.m3u8
 #EXTINF:-1 tvg-id="sctv2hd" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/VqNpntW/sctv2-hd.png",SCTV2
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/201/index.m3u8
 #EXTINF:-1 tvg-id="sctv3hd" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/pwy6LhX/sctv3-hd.png",SCTV3
-https://liveh12.seenow.vn/hls/SCTV3/index.m3u8
+https://liveh34.seenow.vn/hls/SCTV3/index.m3u8
 #EXTINF:-1 tvg-id="sctv4hd" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/rHsWYhW/sctv4-hd.png",SCTV4
 https://liveh12.seenow.vn/hls/SCTV4/index.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/HpgQgB5/logo26072108-sctv6-hd.png",SCTV6
@@ -403,6 +403,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_c
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/MMAJunkie_Logo.png",MMA Junkie
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
+
 
 
 
