@@ -72,14 +72,8 @@ https://liveh34.seenow.vn/hls/SCTV12/index.m3u8
 https://liveh34.seenow.vn/hls/SCTV13/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wLKj69Q/logo26072108-sctv14-hd.png" group-title="Truyền Hình",SCTV14
 https://liveh34.seenow.vn/hls/SCTV14/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1KsLhCz/logo26072108-sctv16-hd.png" group-title="Truyền Hình",SCTV16
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv16
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LY0CW6H/logo26072108-sctv18-hd.png" group-title="Truyền Hình",SCTV18
 https://liveh34.seenow.vn/hls/SCTV18/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5TrWMKr/logo26072108-sctv19-hd.png" group-title="Truyền Hình",SCTV19
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv19
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nmxNkPG/s21-hd.jpg" group-title="Truyền Hình",SCTV21
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv21
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/G2XQD3X/logo26072108-sctv-phim-THHD.png",SCTV Phim tổng hợp
 https://liveh12.seenow.vn/hls/SCTVPHIM/index.m3u8
 #EXTINF:-1 tvg-id="sctv4k" group-title="Truyền Hình" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV4K.webp", SCTV4K 
@@ -409,6 +403,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_c
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/MMAJunkie_Logo.png",MMA Junkie
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
+
 
 
 
