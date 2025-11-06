@@ -122,6 +122,56 @@ https://freem3u.xyz/api/live/play.m3u8?vid=179
 https://freem3u.xyz/api/live/play.m3u8?vid=188
 #EXTINF:-1 tvg-id="ongolf" group-title="Truyền Hình" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf 
 https://freem3u.xyz/api/live/play.m3u8?vid=169
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png", MUTV
+http://nocable.cc:8080////////////N2sdm7////////499994//////////53717
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/250px-Polsat_Sport_1_2024.svg.png", Polsat Sport 1
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=14740&extension=ts&play_token=jPBbeLu7rI
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Polsat_Sport_2_2024.svg/1200px-Polsat_Sport_2_2024.svg.png", Polsat Sport 2
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233715&extension=ts&play_token=klT8fyTCz5
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_3_2024.svg/250px-Polsat_Sport_3_2024.svg.png", Polsat Sport 3
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233716&extension=ts&play_token=PSYS8qYMEV
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/er6tz11641505761.png", Max Sport 1 HD
+http://filex.me:8080/live/drzain/002808/318164.ts
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/8qhlj81641505795.png", Max Sport 2 HD
+http://filex.me:8080/live/drzain/002808/318165.ts
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://msatcable.com/wp-content/uploads/2023/05/xoceudhlccd61ha1z10u8orii5.png", Max Sport 4 HD
+http://filex.me:8080/live/drzain/002808/318167.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p1q77RO.png" group-title="Truyền Hình",SPOTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5D0YW20.png" group-title="Truyền Hình",SPOTV2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+#EXTINF:-1 group-title="Truyền Hình" tvg-id="skyspnews" tvg-logo="https://img-284.media.info/i/bg/1/1087-1600877510.webp",Sky Sports News
+http://cmc.best-ott.me:80/play/live.php?mac=00:1A:79:B5:F9:D6&stream=588069&extension=ts&play_token=lh97TPSDwG
+#EXTINF:-1 group-title="Truyền Hình" tvg-id="skyf1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png",Sky Sport F1
+http://cmc.best-ott.me:80/play/live.php?mac=00:1A:79:B5:F9:D6&stream=588065&extension=ts&play_token=xBXM5E3VAZ
+#EXTINF:-1 group-title="Truyền Hình" tvg-id="skypl" tvg-logo="https://sender.epglogos.de/302x190_w/12181.png",Sky Sport Premier League
+http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/129300.ts
+#EXTINF:-1 group-title="Truyền Hình" tvg-id="skymix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/1200px-Sky_Sport_Mix_Logo_2022.svg.png",Sky Sport Mix
+http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/145813.ts
+#EXTINF:-1 group-title="Truyền Hình" tvg-id="skytennis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/1200px-Sky_Sport_Tennis.svg.png",Sky Sport Tennis
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157768.ts
+#EXTINF:-1 group-title="Truyền Hình" tvg-id="spd" tvg-logo="https://gbcomcdn.com/uploads/production/5f574a8de2f9196327ad89f7/2021/02/sdf_logo_rgb_hoch_02.png",Sportdigital
+http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/145467.ts
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1184930&extension=ts&play_token=fHBckk00nW
+#EXTINF:-1 group-title="Truyền Hình" tvg-id="tnt1" tvg-logo="https://media.info/l/o/1/1539.1690027797.png",TNT Sports 1 4Mbps for 4G
+http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/134129.ts
+#EXTINF:-1 group-title="Truyền Hình" tvg-id="tnt2" tvg-logo="https://media.info/l/o/1/1540.1690027877.png",TNT Sports 2 4Mbps for 4G
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157969.ts
+#EXTINF:-1 group-title="Truyền Hình" tvg-id="tnt3" tvg-logo="https://media.info/l/o/5/5712.1690027954.png",TNT Sports 3 4Mbps for 4G
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157972.ts
+#EXTINF:-1 group-title="Truyền Hình" tvg-id="tnt4" tvg-logo="https://media.info/l/o/1/1491.1690027975.png",TNT Sports 4 4Mbps for 4G
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157975.ts
+#EXTINF:-1 group-title="Truyền Hình" tvg-id="tnt5" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/tntsport5.png",TNT Sports 5 4Mbps for 4G
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157977.ts
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png", Canal+ Foot
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1071923&extension=ts&play_token=vcQAIeKouv
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/QztqOe0.png",An Ninh TV
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/UIGZw0y.png",Quốc Phòng VN
@@ -549,6 +599,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_c
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/MMAJunkie_Logo.png",MMA Junkie
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
+
 
 
 
