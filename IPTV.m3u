@@ -64,6 +64,9 @@ http://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
 https://liveh34.seenow.vn/hls/SCTV7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1Z8k49W/logo26072108-sctv8.png" group-title="Truyền Hình",SCTV8
 https://liveh34.seenow.vn/hls/SCTV8/index.m3u8
+#EXTINF:-1 tvg-id="sctv9hd" group-title="Truyền Hình" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV9.png",SCTV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/88mFbmH/logo26072108-sctv11-hd.png" group-title="Truyền Hình",SCTV11
 https://liveh34.seenow.vn/hls/SCTV11/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hxNHc7x/logo26072108-sctv12-hd.png" group-title="Truyền Hình",SCTV12
@@ -74,6 +77,9 @@ https://liveh34.seenow.vn/hls/SCTV13/index.m3u8
 https://liveh34.seenow.vn/hls/SCTV14/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LY0CW6H/logo26072108-sctv18-hd.png" group-title="Truyền Hình",SCTV18
 https://liveh34.seenow.vn/hls/SCTV18/index.m3u8
+#EXTINF:-1 tvg-id="sctv19hd" group-title="Truyền Hình" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv19.png",SCTV19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv19
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/G2XQD3X/logo26072108-sctv-phim-THHD.png",SCTV Phim tổng hợp
 https://liveh12.seenow.vn/hls/SCTVPHIM/index.m3u8
 #EXTINF:-1 tvg-id="sctv4k" group-title="Truyền Hình" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV4K.webp", SCTV4K 
@@ -236,14 +242,97 @@ https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist.m3u8
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg",TVB VIỆT NAM
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="boxmovie1" group-title=""Truyền Hình"" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg", Box Movie 1
-https://toiyeuvietnam.dpdns.org/CoBan/box-movie-1-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title=""Truyền Hình"" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/HollywoodClassic.jpg", Hollywood Classics
-#EXTINF:-1 tvg-id="inthebox" group-title=""Truyền Hình"" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/INTHEBOX.jpg", In The Box
-https://toiyeuvietnam.dpdns.org/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="boxhits" group-title=""Truyền Hình"" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/BOXHITS.jpg", Box Hits
-#EXTINF:-1 tvg-id="manhd" group-title=""Truyền Hình"" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/02/18/1627902182400/125faee2618c_640_360.png", Man
-https://toiyeuvietnam.dpdns.org/CoBan/box-hits/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="boxmovie1" group-title="Truyền Hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg", Box Movie 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=159&token=2025
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="Truyền Hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/HollywoodClassic.jpg", Hollywood Classics
+https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=160&token=2025
+#EXTINF:-1 tvg-id="inthebox" group-title="Truyền Hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/INTHEBOX.jpg", In The Box
+https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=235&token=2025
+#EXTINF:-1 tvg-id="boxhits" group-title="Truyền Hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/BOXHITS.jpg", Box Hits
+https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=239&token=2025
+#EXTINF:-1 tvg-id="hbohd" group-title="Truyền Hình" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png", HBO
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
+#EXTINF:-1 tvg-id="hbohits" group-title="Truyền Hình" tvg-logo="https://cms.cignal.tv/Upload/Images/HBO%20Hits-1.jpg", HBO Hits
+http://filex.tv:8080//live/drzain/002808/302250.ts
+#EXTINF:-1 tvg-id="hbofamily" group-title="Truyền Hình" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png", HBO Family
+http://filex.tv:8080//live/drzain/002808/302249.ts
+#EXTINF:-1 tvg-id="hbosignaturehd" group-title="Truyền Hình" tvg-logo="https://img.lichphatsong.xyz/logo/hbosignaturehd-asia.png", HBO Signature HD
+http://filex.tv:8080//live/drzain/002808/302251.ts
+#EXTINF:-1 tvg-id="afnhd" group-title="Truyền Hình" tvg-logo="https://i.vimeocdn.com/video/852785228-36403e3d29153c02a4acfcf0ca4182b0be0bef3e5b43355eafc33614ee972a9b-d?f=webp", Asian Food Network
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Truyền Hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/CINEMAX.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6YaPX0c9D9hpnt5I1THCsA","kid":"rLTCNHEGMyetxzLig8CEfw"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Truyền Hình" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png", Cinema World
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"s14Sp1pCpvkYRyOpD/QtnA","kid":"7nkVVk10OdCb01Vv/MyHpA"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
+#EXTINF:-1 tvg-id="animaxhd" group-title="Truyền Hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Animax.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animax HD
+http://filex.tv:8080//live/drzain/002808/290854.ts
+#EXTINF:-1 tvg-id="boomerang" group-title="Truyền Hình" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Cartoonito-Logo.jpg", Cartoonito
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1516887&extension=ts&play_token=EmvO2AH4kY
+#EXTINF:-1 tvg-id="cartoonhd" group-title="Truyền Hình" tvg-logo="https://freight.cargo.site/w/1200/i/3cf72163d993c4d87263e6d4990ec4ccdd1e14b09ce89e6e35dee1de83ef4985/CN.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cartoon Network HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PMGt1Drszj/jHJxqKluMIQ","kid":"PCAWZmCpOnWsd9uBVnOJ9w"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
+#EXTINF:-1 tvg-id="babytvhd" group-title="Truyền Hình" tvg-logo="https://www.babytv.com/app/uploads/2019/12/LogoBabyTV-2019.png", BabyTV
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=150391&extension=ts&play_token=7pUsoprXJc
+#EXTINF:-1 tvg-id="dreamworks" group-title="Truyền Hình" tvg-logo="https://s7266.cdn.mytvnet.vn/vimages/de/eb/ba/a7/7e/ee/deba7-pdreamworkshd-channel-unkn.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/dreamworks_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Dreamworks
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WTKPYh1WdnvF/5QEqJQGgw","kid":"Z9riBSfGPa2qrmCaqRV3yw"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
+#EXTINF:-1 tvg-id="lovenature" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Love_Nature_4K.png/revision/latest?cb=20211105035409&path-prefix=vi", Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-id="bbcearth" group-title="Truyền Hình" tvg-logo="https://i.ytimg.com/vi/0jFG4yuzMRo/maxresdefault.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earth
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=71995&extension=ts&play_token=mvpWiPu9Lp
+#EXTINF:-1 tvg-id="bbclifestyle" group-title="Truyền Hình" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch502_425_305" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Lifestyle
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/302213.ts
+#EXTINF:-1 tvg-id="cbeebies" group-title="Truyền Hình" tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/7d/d5/58/8c/ce/ea/7d58c-pcbeebieshd-channel-unkn.png", BBC Cbeebies
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uDPR9AwmHveIlvl+BvgM3A","kid":"zKc6AGtLOaWVIHzrXtnKCg"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="Truyền Hình" tvg-logo="https://i.ytimg.com/vi/jL2fsQB9J-g/maxresdefault.jpg", BBC World News
+https://i.mjh.nz/.r/bbc-news.m3u8
+#EXTINF:-1 tvg-id="arirang" group-title="Truyền Hình" tvg-logo="https://i.ytimg.com/vi/ZqVyukYe4YM/hq720.jpg", Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 tvg-id="bloomberg" group-title="Truyền Hình" tvg-logo="https://i.imgur.com/rxFZgIK.png", Bloomberg
+http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/302329.ts
+#EXTINF:-1 tvg-id="cnbc" group-title="Truyền Hình" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/30b1d744249569.56076e09dd31e.png", CNBC
+http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/290786.ts
+#EXTINF:-1 tvg-id="cnn" group-title="Truyền Hình" tvg-logo="https://deadline.com/wp-content/uploads/2020/09/CNN-Logo.jpg", CNN
+http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/290675.ts
+#EXTINF:-1 tvg-id="manhd" group-title="Truyền Hình" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/02/18/1627902182400/125faee2618c_640_360.png", Man
+https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=237&token=2025
+#EXTINF:-1 tvg-id="musicbox" group-title="Truyền Hình" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822939536/68d521f6938e_640_360.png", Music Box
+https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=289&token=2025
+#EXTINF:-1 tvg-id="drfithd" group-title="Truyền Hình" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822429190/7b74ab00eb3e_640_360.png", Dr.Fit
+https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=162&token=2025
+#EXTINF:-1 tvg-id="happykids" group-title="Truyền Hình" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823512270/ee08dd0e8b64_640_360.png", Happy Kids
+https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=212&token=2025
+#EXTINF:-1 tvg-id="planetearthhd" group-title="Truyền Hình" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823484363/34cadc4f9c06_640_360.png", Planet Earth
+https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=135&token=2025
+#EXTINF:-1 tvg-id="woman" group-title="Truyền Hình" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_640_360.png", Woman
+https://freem3u.xyz/api/live/play.m3u8?vid=163
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115535
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/LjOE7VC.png",CNN
@@ -268,6 +357,61 @@ https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
 https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="animalhd" group-title="Truyền Hình" tvg-logo="https://identsandpresentation.com/animalplanet2018/stingone-d.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=71986&extension=ts&play_token=bxZiCrEqA4
+#EXTINF:-1 tvg-id="discoveryhd" group-title="Truyền Hình" tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/c7/7f/fc/c6/69/9b/c7fc6-pdiscoveryhd-channel-unkn.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discovrery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vqWgcVfgxNF7Eas5lRf5Ug","kid":"60Fg6lU6Mh2JlVPk55b+wg"}],"type":"temporary"}
+https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Truyền Hình" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/01/Discovery-Asia.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery Asia
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1163764&extension=ts&play_token=eRhuYZiMTk
+#EXTINF:-1 tvg-id="axnhd" group-title="Truyền Hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/640px-AXN_logo_%282015%29.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1164010&extension=ts&play_token=ugKAP3E1xv
+#EXTINF:0 tvg-id="blueantent" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/L5yHTzj/Rock-Entertainment.png" ,Rock Entertainment
+#EXTVLCOPT:http-user-agent="KIIP"
+http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/302299.ts
+#EXTINF:0 tvg-id="blueantext" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/1Qd6pxW/Rock-Extreme.png" ,Rock Action
+#EXTVLCOPT:http-user-agent="KIIP"
+http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/302298.ts
+#EXTINF:-1 tvg-id="outdoor" group-title="Truyền Hình" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_outdoor-channel_165649323545.png", Outdoor Channel
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="historyhd" group-title="Truyền Hình" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/06/03/22/1717427367441/869de47c9504_640_360.png", History HD
+https://xem.hoiquan.Click/CoBan/history-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="dmax" group-title="Truyền Hình" tvg-logo="https://i.imgur.com/vHmt91V.png", DMAX
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DGTM+5eOc5C9MzRAdUkq7A","kid":"U7JvkErgOiC1ZHfPucXcog"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
+#EXTINF:-1 tvg-id="abcaustralia" group-title="Truyền Hình" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/1200px-ABC_Australia_logo.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/australiaplus_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ABC Australia
+#EXTVLCOPT:http-user-agent=VThanhTivi
+http://49.0.64.96:8007/ABC
+#EXTINF:-1 tvg-id="fashionhd" group-title="Truyền Hình" tvg-logo="https://m.media-amazon.com/images/I/91B05VQC2kL.png", Fashion TV
+https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist_1920x1080_4200k.m3u8
+#EXTINF:-1 tvg-id="kix" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/26/KIX.png/revision/latest/scale-to-width-down/1200?cb=20211017094335&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", KIX HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="tlchd" group-title="Truyền Hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", TLC
+https://1.org.vn/tlc
+#EXTINF:-1 tvg-id="warnertvhd" group-title="Truyền Hình" tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/6b/ba/a3/36/60/0a/6ba36-pwarnerhd-channel-unkn.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/warnertv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Warner TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPGQjP4uBe4GAEbUDxSuyQ","kid":"CG0JpAv/OgCqbdTbr5wTsg"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Truyền Hình", Celestial Movies
+http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/302223.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png" group-title="Truyền Hình", Clubbingtv
+http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/302127.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/4IkIBkIFApQMYml2sW7XAV21mye06E_X5HssA-WsCRYBHIxWP5BQFzq79t0P5T8MrVs" group-title="Truyền Hình", Filmbox
+http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/317770.ts
+#EXTINF:-1 tvg-id="" group-title="Truyền Hình" tvg-logo="https://play-lh.googleusercontent.com/RjM1R-ktRX0zRfdqLvCKrfMt9qFLSFXYP4Nt9ndfAFtbfeeyDeCijvbH-tT0T_UYM8s", Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 Monde Asie
 https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://telegra.ph/file/bccc6463dd079c2120699.png",KiX
@@ -405,6 +549,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_c
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/MMAJunkie_Logo.png",MMA Junkie
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
+
 
 
 
