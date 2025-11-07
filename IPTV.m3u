@@ -169,9 +169,9 @@ https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/iaexSxL.png",Lâm Đồng 1
 http://118.107.85.5:1935/live/smil:LTV.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/iaexSxL.png",Lâm Đồng 2
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/45/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=45
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/LTV3HD.png",Lâm Đồng 3
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/50/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=50
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://media.la34.com.vn/upload/files/logo/Logo_nen_tang_so_TTV_vien_den.png",Tây Ninh 1
 https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://www.tayninhtv.vn/static/images/logo.png",Tây Ninh 2
@@ -185,7 +185,7 @@ https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/playlist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/jtyDVU5.png",Đắk Lắk
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/z7l0ZZg.png",Gia Lai
-https://live.fptplay53.net/epzsd1/binhdinh_hls.smil/chunklist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=55
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/HQ7jCa6.png",Thừa Thiên Huế
 https://live.huetv.com.vn/TRT-Online/playlist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/N2gUYoh.png",Khánh Hòa
@@ -195,7 +195,7 @@ https://60acee235f4d5.streamlock.net/live/mystream/playlist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/FTyvVYO.png",Quảng Ngãi
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/playlist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/xl4m2mn.png",Quảng Trị
-http://quangtritv.vn/tv/tvvnpt2024.m3u8
+https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/Je3K25E.png",Hà Nội 1
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/szivqh2.png",Hà Nội 2
@@ -601,6 +601,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_c
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/MMAJunkie_Logo.png",MMA Junkie
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
+
 
 
 
