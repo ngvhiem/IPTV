@@ -9,7 +9,7 @@ https://liveh12.vtvprime.vn/hls/VTV3_HD/04.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/9zVTtsA.png" tvg-id="80e7c76bee49cba58fabe6ef84acce0d",VTV4
 https://live.fptplay53.net/fnxhd1/vtv4_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/7qPKNFU.png" tvg-id="6c6c043b6a973a5178240d491f38b3d0",VTV5
-https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist.m3u8
+https://liveh12.vtvprime.vn/hls/VTV5_HD/04.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/hMcVcJK/ccvtv5tnb.webp" tvg-id="6c6c043b6a973a5178240d491f38b3d0",VTV5 Tây Nam Bộ
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/SffsRYs/ccvtv5tn.webp" tvg-id="6c6c043b6a973a5178240d491f38b3d0",VTV5 Tây Nguyên
@@ -598,6 +598,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:0 tvg-id="vtv5hd" group-title="Truyền Hình" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 8.5Mbps)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://khaitv.giize.com:8090/225.1.1.131:30120
+
 
 
 
