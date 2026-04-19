@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 #-----------------------Truyền Hình-------------------------------#
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/UfN6aAi.png",Nhà Bà Nữ 
+https://raw.githubusercontent.com/tienne271998-a11y/film-nha-ba-nu/refs/heads/main/index.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
