@@ -19,7 +19,7 @@ https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
 https://live.fptplay53.net/live/media/vtv7/live247-hls-avc/index.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
-https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
+https://live.fptplay53.net/live/media/vtv8/live-hls-avc/vtv8.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
 https://live.fptplay53.net/fnxhd1/vtv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV10
