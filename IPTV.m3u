@@ -6,6 +6,8 @@ https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1.m3u8
 https://live.fptplay53.net/live/media/vtv2/live247-hls-avc/vtv2.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
 https://live-a.fptplay53.net/live/media/vtv3/live247-hls-avc/vtv3.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="Truyền Hình" tvg-logo="https://vnepg.site/logos/3.png",VTV3 HD
+http://42.1.99.192:8080/live/vtv3.flv
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 
 https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/vtv4.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
@@ -16,6 +18,8 @@ https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=
 https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV6.png",VTV6
 https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/vtv6.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" group-title="Truyền Hình" tvg-logo="https://vnepg.site/logos/113.png",VTV6 HD
+http://42.1.99.192:8080/live/vtv6.flv
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
 https://live.fptplay53.net/live/media/vtv7/live247-hls-avc/index.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
@@ -249,9 +253,9 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1f0d759e914369db388b3b0dc815971:5678d317e17007a88a9b9539e4526512
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
-#EXTINF:-1 tvg-id="vtv3hd" group-title="FIFA WORLD CUP 2026" tvg-logo="https://vnepg.site/logos/3.png",VTV3
+#EXTINF:-1 tvg-id="vtv3hd" group-title="Truyền Hình" tvg-logo="https://vnepg.site/logos/3.png",VTV3
 http://42.1.99.192:8080/live/vtv3.flv
-#EXTINF:-1 tvg-id="vtv6hd" group-title="FIFA WORLD CUP 2026" tvg-logo="https://vnepg.site/logos/113.png",VTV6
+#EXTINF:-1 tvg-id="vtv6hd" group-title="Truyền Hình" tvg-logo="https://vnepg.site/logos/113.png",VTV6
 http://42.1.99.192:8080/live/vtv6.flv
 
 
