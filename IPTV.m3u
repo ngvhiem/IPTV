@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 #-----------------------Truyền Hình-------------------------------#
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
-https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
 https://live.fptplay53.net/live/media/v2abr/live247-hls-avc/v2abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
