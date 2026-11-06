@@ -25,7 +25,7 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv9/master.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV10
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6/master.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="Truyền Hình" tvg-logo="https://vnepg.site/logos/176.png",VietNam Today
-https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/index.m3u8
+https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
 
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/dfGZxST/cchtv1.webp" tvg-id="22b8cd8d92ab071051b41b2c09a65736",HTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=190
